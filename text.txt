@@ -1,4 +1,3 @@
 Pikachu	Field	Fairy
 Pichu	Field	Fairy
 Zacian	Undiscovered	N/A
-
