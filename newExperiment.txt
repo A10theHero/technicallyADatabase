@@ -1,808 +1,808 @@
-Bulbasaur
-Ivysaur
-Venusaur
-Charmander
-Charmeleon
-Charizard
-Squirtle
-Wartortle
-Blastoise
-Caterpie
-Metapod
-Butterfree
-Weedle
-Kakuna
-Beedrill
-Pidgey
-Pidgeotto
-Pidgeot
-Rattata
-Raticate
-Spearow
-Fearow
-Ekans
-Arbok
-Pikachu
-Raichu
-Sandshrew
-Sandslash
-Nidoran♀
-Nidorina
-Nidoqueen
-Nidoran♂
-Nidorino
-Nidoking
-Clefairy
-Clefable
-Vulpix
-Ninetales
-Jigglypuff
-Wigglytuff
-Zubat
-Golbat
-Oddish
-Gloom
-Vileplume
-Paras
-Parasect
-Venonat
-Venomoth
-Diglett
-Dugtrio
-Meowth
-Persian
-Psyduck
-Golduck
-Mankey
-Primeape
-Growlithe
-Arcanine
-Poliwag
-Poliwhirl
-Poliwrath
-Abra
-Kadabra
-Alakazam
-Machop
-Machoke
-Machamp
-Bellsprout
-Weepinbell
-Victreebel
-Tentacool
-Tentacruel
-Geodude
-Graveler
-Golem
-Ponyta
-Rapidash
-Slowpoke
-Slowbro
-Magnemite
-Magneton
-Farfetch'd
-Doduo
-Dodrio
-Seel
-Dewgong
-Grimer
-Muk
-Shellder
-Cloyster
-Gastly
-Haunter
-Gengar
-Onix
-Drowzee
-Hypno
-Krabby
-Kingler
-Voltorb
-Electrode
-Exeggcute
-Exeggutor
-Cubone
-Marowak
-Hitmonlee
-Hitmonchan
-Lickitung
-Koffing
-Weezing
-Rhyhorn
-Rhydon
-Chansey
-Tangela
-Kangaskhan
-Horsea
-Seadra
-Goldeen
-Seaking
-Staryu
-Starmie
-Mr. Mime
-Scyther
-Jynx
-Electabuzz
-Magmar
-Pinsir
-Tauros
-Magikarp
-Gyarados
-Lapras
-Ditto
-Eevee
-Vaporeon
-Jolteon
-Flareon
-Porygon
-Omanyte
-Omastar
-Kabuto
-Kabutops
-Aerodactyl
-Snorlax
-Articuno
-Zapdos
-Moltres
-Dratini
-Dragonair
-Dragonite
-Mewtwo
-Mew
-Chikorita
-Bayleef
-Meganium
-Cyndaquil
-Quilava
-Typhlosion
-Totodile
-Croconaw
-Feraligatr
-Sentret
-Furret
-Hoothoot
-Noctowl
-Ledyba
-Ledian
-Spinarak
-Ariados
-Crobat
-Chinchou
-Lanturn
-Pichu
-Cleffa
-Igglybuff
-Togepi
-Togetic
-Natu
-Xatu
-Mareep
-Flaaffy
-Ampharos
-Bellossom
-Marill
-Azumarill
-Sudowoodo
-Politoed
-Hoppip
-Skiploom
-Jumpluff
-Aipom
-Sunkern
-Sunflora
-Yanma
-Wooper
-Quagsire
-Espeon
-Umbreon
-Murkrow
-Slowking
-Misdreavus
-Unown
-Wobbuffet
-Girafarig
-Pineco
-Forretress
-Dunsparce
-Gligar
-Steelix
-Snubbull
-Granbull
-Qwilfish
-Scizor
-Shuckle
-Heracross
-Sneasel
-Teddiursa
-Ursaring
-Slugma
-Magcargo
-Swinub
-Piloswine
-Corsola
-Remoraid
-Octillery
-Delibird
-Mantine
-Skarmory
-Houndour
-Houndoom
-Kingdra
-Phanpy
-Donphan
-Porygon2
-Stantler
-Smeargle
-Tyrogue
-Hitmontop
-Smoochum
-Elekid
-Magby
-Miltank
-Blissey
-Raikou
-Entei
-Suicune
-Larvitar
-Pupitar
-Tyranitar
-Lugia
-Ho-Oh
-Celebi
-Treecko
-Grovyle
-Sceptile
-Torchic
-Combusken
-Blaziken
-Mudkip
-Marshtomp
-Swampert
-Poochyena
-Mightyena
-Zigzagoon
-Linoone
-Wurmple
-Silcoon
-Beautifly
-Cascoon
-Dustox
-Lotad
-Lombre
-Ludicolo
-Seedot
-Nuzleaf
-Shiftry
-Taillow
-Swellow
-Wingull
-Pelipper
-Ralts
-Kirlia
-Gardevoir
-Surskit
-Masquerain
-Shroomish
-Breloom
-Slakoth
-Vigoroth
-Slaking
-Nincada
-Ninjask
-Shedinja
-Whismur
-Loudred
-Exploud
-Makuhita
-Hariyama
-Azurill
-Nosepass
-Skitty
-Delcatty
-Sableye
-Mawile
-Aron
-Lairon
-Aggron
-Meditite
-Medicham
-Electrike
-Manectric
-Plusle
-Minun
-Volbeat
-Illumise
-Roselia
-Gulpin
-Swalot
-Carvanha
-Sharpedo
-Wailmer
-Wailord
-Numel
-Camerupt
-Torkoal
-Spoink
-Grumpig
-Spinda
-Trapinch
-Vibrava
-Flygon
-Cacnea
-Cacturne
-Swablu
-Altaria
-Zangoose
-Seviper
-Lunatone
-Solrock
-Barboach
-Whiscash
-Corphish
-Crawdaunt
-Baltoy
-Claydol
-Lileep
-Cradily
-Anorith
-Armaldo
-Feebas
-Milotic
-Castform
-Kecleon
-Shuppet
-Banette
-Duskull
-Dusclops
-Tropius
-Chimecho
-Absol
-Wynaut
-Snorunt
-Glalie
-Spheal
-Sealeo
-Walrein
-Clamperl
-Huntail
-Gorebyss
-Relicanth
-Luvdisc
-Bagon
-Shelgon
-Salamence
-Beldum
-Metang
-Metagross
-Regirock
-Regice
-Registeel
-Latias
-Latios
-Kyogre
-Groudon
-Rayquaza
-Jirachi
-Deoxys
-Turtwig
-Grotle
-Torterra
-Chimchar
-Monferno
-Infernape
-Piplup
-Prinplup
-Empoleon
-Starly
-Staravia
-Staraptor
-Bidoof
-Bibarel
-Kricketot
-Kricketune
-Shinx
-Luxio
-Luxray
-Budew
-Roserade
-Cranidos
-Rampardos
-Shieldon
-Bastiodon
-Burmy
-Wormadam
-Mothim
-Combee
-Vespiquen
-Pachirisu
-Buizel
-Floatzel
-Cherubi
-Cherrim
-Shellos
-Gastrodon
-Ambipom
-Drifloon
-Drifblim
-Buneary
-Lopunny
-Mismagius
-Honchkrow
-Glameow
-Purugly
-Chingling
-Stunky
-Skuntank
-Bronzor
-Bronzong
-Bonsly
-Mime Jr.
-Happiny
-Chatot
-Spiritomb
-Gible
-Gabite
-Garchomp
-Munchlax
-Riolu
-Lucario
-Hippopotas
-Hippowdon
-Skorupi
-Drapion
-Croagunk
-Toxicroak
-Carnivine
-Finneon
-Lumineon
-Mantyke
-Snover
-Abomasnow
-Weavile
-Magnezone
-Lickilicky
-Rhyperior
-Tangrowth
-Electivire
-Magmortar
-Togekiss
-Yanmega
-Leafeon
-Glaceon
-Gliscor
-Mamoswine
-Porygon-Z
-Gallade
-Probopass
-Dusknoir
-Froslass
-Rotom
-Uxie
-Mesprit
-Azelf
-Dialga
-Palkia
-Heatran
-Regigigas
-Giratina
-Cresselia
-Phione
-Manaphy
-Darkrai
-Shaymin
-Arceus
-Victini
-Snivy
-Servine
-Serperior
-Tepig
-Pignite
-Emboar
-Oshawott
-Dewott
-Samurott
-Patrat
-Watchog
-Lillipup
-Herdier
-Stoutland
-Purrloin
-Liepard
-Pansage
-Simisage
-Pansear
-Simisear
-Panpour
-Simipour
-Munna
-Musharna
-Pidove
-Tranquill
-Unfezant
-Blitzle
-Zebstrika
-Roggenrola
-Boldore
-Gigalith
-Woobat
-Swoobat
-Drilbur
-Excadrill
-Audino
-Timburr
-Gurdurr
-Conkeldurr
-Tympole
-Palpitoad
-Seismitoad
-Throh
-Sawk
-Sewaddle
-Swadloon
-Leavanny
-Venipede
-Whirlipede
-Scolipede
-Cottonee
-Whimsicott
-Petilil
-Lilligant
-Basculin
-Sandile
-Krokorok
-Krookodile
-Darumaka
-Darmanitan
-Maractus
-Dwebble
-Crustle
-Scraggy
-Scrafty
-Sigilyph
-Yamask
-Cofagrigus
-Tirtouga
-Carracosta
-Archen
-Archeops
-Trubbish
-Garbodor
-Zorua
-Zoroark
-Minccino
-Cinccino
-Gothita
-Gothorita
-Gothitelle
-Solosis
-Duosion
-Reuniclus
-Ducklett
-Swanna
-Vanillite
-Vanillish
-Vanilluxe
-Deerling
-Sawsbuck
-Emolga
-Karrablast
-Escavalier
-Foongus
-Amoonguss
-Frillish
-Jellicent
-Alomomola
-Joltik
-Galvantula
-Ferroseed
-Ferrothorn
-Klink
-Klang
-Klinklang
-Tynamo
-Eelektrik
-Eelektross
-Elgyem
-Beheeyem
-Litwick
-Lampent
-Chandelure
-Axew
-Fraxure
-Haxorus
-Cubchoo
-Beartic
-Cryogonal
-Shelmet
-Accelgor
-Stunfisk
-Mienfoo
-Mienshao
-Druddigon
-Golett
-Golurk
-Pawniard
-Bisharp
-Bouffalant
-Rufflet
-Braviary
-Vullaby
-Mandibuzz
-Heatmor
-Durant
-Deino
-Zweilous
-Hydreigon
-Larvesta
-Volcarona
-Cobalion
-Terrakion
-Virizion
-Tornadus
-Thundurus
-Reshiram
-Zekrom
-Landorus
-Kyurem
-Keldeo
-Meloetta
-Genesect
-Chespin
-Quilladin
-Chesnaught
-Fennekin
-Braixen
-Delphox
-Froakie
-Frogadier
-Greninja
-Bunnelby
-Diggersby
-Fletchling
-Fletchinder
-Talonflame
-Scatterbug
-Spewpa
-Vivillon
-Litleo
-Pyroar
-Flabébé
-Floette
-Florges
-Skiddo
-Gogoat
-Pancham
-Pangoro
-Furfrou
-Espurr
-Meowstic
-Honedge
-Doublade
-Aegislash
-Spritzee
-Aromatisse
-Swirlix
-Slurpuff
-Inkay
-Malamar
-Binacle
-Barbaracle
-Skrelp
-Dragalge
-Clauncher
-Clawitzer
-Helioptile
-Heliolisk
-Tyrunt
-Tyrantrum
-Amaura
-Aurorus
-Sylveon
-Hawlucha
-Dedenne
-Carbink
-Goomy
-Sliggoo
-Goodra
-Klefki
-Phantump
-Trevenant
-Pumpkaboo
-Gourgeist
-Bergmite
-Avalugg
-Noibat
-Noivern
-Xerneas
-Yveltal
-Zygarde
-Diancie
-Hoopa
-Volcanion
-Rowlet
-Dartrix
-Decidueye
-Litten
-Torracat
-Incineroar
-Popplio
-Brionne
-Primarina
-Pikipek
-Trumbeak
-Toucannon
-Yungoos
-Gumshoos
-Grubbin
-Charjabug
-Vikavolt
-Crabrawler
-Crabominable
-Oricorio
-Cutiefly
-Ribombee
-Rockruff
-Lycanroc
-Wishiwashi
-Mareanie
-Toxapex
-Mudbray
-Mudsdale
-Dewpider
-Araquanid
-Fomantis
-Lurantis
-Morelull
-Shiinotic
-Salandit
-Salazzle
-Stufful
-Bewear
-Bounsweet
-Steenee
-Tsareena
-Comfey
-Oranguru
-Passimian
-Wimpod
-Golisopod
-Sandygast
-Palossand
-Pyukumuku
-Type: Null
-Silvally
-Minior
-Komala
-Turtonator
-Togedemaru
-Mimikyu
-Bruxish
-Drampa
-Dhelmise
-Jangmo-o
-Hakamo-o
-Kommo-o
-Tapu Koko
-Tapu Lele
-Tapu Bulu
-Tapu Fini
-Cosmog
-Cosmoem
-Solgaleo
-Lunala
-Nihilego
-Buzzwole
-Pheromosa
-Xurkitree
-Celesteela
-Kartana
-Guzzlord
-Necrozma
-Magearna
-Marshadow
-Poipole
-Naganadel
-Stakataka
-Blacephalon
-Meltan
-Melmetal
+Bulbasaur	Hi
+Ivysaur	Hello
+Venusaur	Good Morning
+Charmander	Afternoon
+Charmeleon	Sup
+Charizard	Top o' the morning
+Squirtle	Hi
+Wartortle	Hello
+Blastoise	Good Morning
+Caterpie	Afternoon
+Metapod	Sup
+Butterfree	Top o' the morning
+Weedle	Hi
+Kakuna	Hello
+Beedrill	Good Morning
+Pidgey	Afternoon
+Pidgeotto	Sup
+Pidgeot	Top o' the morning
+Rattata	Hi
+Raticate	Hello
+Spearow	Good Morning
+Fearow	Afternoon
+Ekans	Sup
+Arbok	Top o' the morning
+Pikachu	Hi
+Raichu	Hello
+Sandshrew	Good Morning
+Sandslash	Afternoon
+Nidoran♀	Sup
+Nidorina	Top o' the morning
+Nidoqueen	Hi
+Nidoran♂	Hello
+Nidorino	Good Morning
+Nidoking	Afternoon
+Clefairy	Sup
+Clefable	Top o' the morning
+Vulpix	Hi
+Ninetales	Hello
+Jigglypuff	Good Morning
+Wigglytuff	Afternoon
+Zubat	Sup
+Golbat	Top o' the morning
+Oddish	Hi
+Gloom	Hello
+Vileplume	Good Morning
+Paras	Afternoon
+Parasect	Sup
+Venonat	Top o' the morning
+Venomoth	Hi
+Diglett	Hello
+Dugtrio	Good Morning
+Meowth	Afternoon
+Persian	Sup
+Psyduck	Top o' the morning
+Golduck	Hi
+Mankey	Hello
+Primeape	Good Morning
+Growlithe	Afternoon
+Arcanine	Sup
+Poliwag	Top o' the morning
+Poliwhirl	Hi
+Poliwrath	Hello
+Abra	Good Morning
+Kadabra	Afternoon
+Alakazam	Sup
+Machop	Top o' the morning
+Machoke	Hi
+Machamp	Hello
+Bellsprout	Good Morning
+Weepinbell	Afternoon
+Victreebel	Sup
+Tentacool	Top o' the morning
+Tentacruel	Hi
+Geodude	Hello
+Graveler	Good Morning
+Golem	Afternoon
+Ponyta	Sup
+Rapidash	Top o' the morning
+Slowpoke	Hi
+Slowbro	Hello
+Magnemite	Good Morning
+Magneton	Afternoon
+Farfetch'd	Sup
+Doduo	Top o' the morning
+Dodrio	Hi
+Seel	Hello
+Dewgong	Good Morning
+Grimer	Afternoon
+Muk	Sup
+Shellder	Top o' the morning
+Cloyster	Hi
+Gastly	Hello
+Haunter	Good Morning
+Gengar	Afternoon
+Onix	Sup
+Drowzee	Top o' the morning
+Hypno	Hi
+Krabby	Hello
+Kingler	Good Morning
+Voltorb	Afternoon
+Electrode	Sup
+Exeggcute	Top o' the morning
+Exeggutor	Hi
+Cubone	Hello
+Marowak	Good Morning
+Hitmonlee	Afternoon
+Hitmonchan	Sup
+Lickitung	Top o' the morning
+Koffing	Hi
+Weezing	Hello
+Rhyhorn	Good Morning
+Rhydon	Afternoon
+Chansey	Sup
+Tangela	Top o' the morning
+Kangaskhan	Hi
+Horsea	Hello
+Seadra	Good Morning
+Goldeen	Afternoon
+Seaking	Sup
+Staryu	Top o' the morning
+Starmie	Hi
+Mr. Mime	Hello
+Scyther	Good Morning
+Jynx	Afternoon
+Electabuzz	Sup
+Magmar	Top o' the morning
+Pinsir	Hi
+Tauros	Hello
+Magikarp	Good Morning
+Gyarados	Afternoon
+Lapras	Sup
+Ditto	Top o' the morning
+Eevee	Hi
+Vaporeon	Hello
+Jolteon	Good Morning
+Flareon	Afternoon
+Porygon	Sup
+Omanyte	Top o' the morning
+Omastar	Hi
+Kabuto	Hello
+Kabutops	Good Morning
+Aerodactyl	Afternoon
+Snorlax	Sup
+Articuno	Top o' the morning
+Zapdos	Hi
+Moltres	Hello
+Dratini	Good Morning
+Dragonair	Afternoon
+Dragonite	Sup
+Mewtwo	Top o' the morning
+Mew	Hi
+Chikorita	Hello
+Bayleef	Good Morning
+Meganium	Afternoon
+Cyndaquil	Sup
+Quilava	Top o' the morning
+Typhlosion	Hi
+Totodile	Hello
+Croconaw	Good Morning
+Feraligatr	Afternoon
+Sentret	Sup
+Furret	Top o' the morning
+Hoothoot	Hi
+Noctowl	Hello
+Ledyba	Good Morning
+Ledian	Afternoon
+Spinarak	Sup
+Ariados	Top o' the morning
+Crobat	Hi
+Chinchou	Hello
+Lanturn	Good Morning
+Pichu	Afternoon
+Cleffa	Sup
+Igglybuff	Top o' the morning
+Togepi	Hi
+Togetic	Hello
+Natu	Good Morning
+Xatu	Afternoon
+Mareep	Sup
+Flaaffy	Top o' the morning
+Ampharos	Hi
+Bellossom	Hello
+Marill	Good Morning
+Azumarill	Afternoon
+Sudowoodo	Sup
+Politoed	Top o' the morning
+Hoppip	Hi
+Skiploom	Hello
+Jumpluff	Good Morning
+Aipom	Afternoon
+Sunkern	Sup
+Sunflora	Top o' the morning
+Yanma	Hi
+Wooper	Hello
+Quagsire	Good Morning
+Espeon	Afternoon
+Umbreon	Sup
+Murkrow	Top o' the morning
+Slowking	Hi
+Misdreavus	Hello
+Unown	Good Morning
+Wobbuffet	Afternoon
+Girafarig	Sup
+Pineco	Top o' the morning
+Forretress	Hi
+Dunsparce	Hello
+Gligar	Good Morning
+Steelix	Afternoon
+Snubbull	Sup
+Granbull	Top o' the morning
+Qwilfish	Hi
+Scizor	Hello
+Shuckle	Good Morning
+Heracross	Afternoon
+Sneasel	Sup
+Teddiursa	Top o' the morning
+Ursaring	Hi
+Slugma	Hello
+Magcargo	Good Morning
+Swinub	Afternoon
+Piloswine	Sup
+Corsola	Top o' the morning
+Remoraid	Hi
+Octillery	Hello
+Delibird	Good Morning
+Mantine	Afternoon
+Skarmory	Sup
+Houndour	Top o' the morning
+Houndoom	Hi
+Kingdra	Hello
+Phanpy	Good Morning
+Donphan	Afternoon
+Porygon2	Sup
+Stantler	Top o' the morning
+Smeargle	Hi
+Tyrogue	Hello
+Hitmontop	Good Morning
+Smoochum	Afternoon
+Elekid	Sup
+Magby	Top o' the morning
+Miltank	Hi
+Blissey	Hello
+Raikou	Good Morning
+Entei	Afternoon
+Suicune	Sup
+Larvitar	Top o' the morning
+Pupitar	Hi
+Tyranitar	Hello
+Lugia	Good Morning
+Ho-Oh	Afternoon
+Celebi	Sup
+Treecko	Top o' the morning
+Grovyle	Hi
+Sceptile	Hello
+Torchic	Good Morning
+Combusken	Afternoon
+Blaziken	Sup
+Mudkip	Top o' the morning
+Marshtomp	Hi
+Swampert	Hello
+Poochyena	Good Morning
+Mightyena	Afternoon
+Zigzagoon	Sup
+Linoone	Top o' the morning
+Wurmple	Hi
+Silcoon	Hello
+Beautifly	Good Morning
+Cascoon	Afternoon
+Dustox	Sup
+Lotad	Top o' the morning
+Lombre	Hi
+Ludicolo	Hello
+Seedot	Good Morning
+Nuzleaf	Afternoon
+Shiftry	Sup
+Taillow	Top o' the morning
+Swellow	Hi
+Wingull	Hello
+Pelipper	Good Morning
+Ralts	Afternoon
+Kirlia	Sup
+Gardevoir	Top o' the morning
+Surskit	Hi
+Masquerain	Hello
+Shroomish	Good Morning
+Breloom	Afternoon
+Slakoth	Sup
+Vigoroth	Top o' the morning
+Slaking	Hi
+Nincada	Hello
+Ninjask	Good Morning
+Shedinja	Afternoon
+Whismur	Sup
+Loudred	Top o' the morning
+Exploud	Hi
+Makuhita	Hello
+Hariyama	Good Morning
+Azurill	Afternoon
+Nosepass	Sup
+Skitty	Top o' the morning
+Delcatty	Hi
+Sableye	Hello
+Mawile	Good Morning
+Aron	Afternoon
+Lairon	Sup
+Aggron	Top o' the morning
+Meditite	Hi
+Medicham	Hello
+Electrike	Good Morning
+Manectric	Afternoon
+Plusle	Sup
+Minun	Top o' the morning
+Volbeat	Hi
+Illumise	Hello
+Roselia	Good Morning
+Gulpin	Afternoon
+Swalot	Sup
+Carvanha	Top o' the morning
+Sharpedo	Hi
+Wailmer	Hello
+Wailord	Good Morning
+Numel	Afternoon
+Camerupt	Sup
+Torkoal	Top o' the morning
+Spoink	Hi
+Grumpig	Hello
+Spinda	Good Morning
+Trapinch	Afternoon
+Vibrava	Sup
+Flygon	Top o' the morning
+Cacnea	Hi
+Cacturne	Hello
+Swablu	Good Morning
+Altaria	Afternoon
+Zangoose	Sup
+Seviper	Top o' the morning
+Lunatone	Hi
+Solrock	Hello
+Barboach	Good Morning
+Whiscash	Afternoon
+Corphish	Sup
+Crawdaunt	Top o' the morning
+Baltoy	Hi
+Claydol	Hello
+Lileep	Good Morning
+Cradily	Afternoon
+Anorith	Sup
+Armaldo	Top o' the morning
+Feebas	Hi
+Milotic	Hello
+Castform	Good Morning
+Kecleon	Afternoon
+Shuppet	Sup
+Banette	Top o' the morning
+Duskull	Hi
+Dusclops	Hello
+Tropius	Good Morning
+Chimecho	Afternoon
+Absol	Sup
+Wynaut	Top o' the morning
+Snorunt	Hi
+Glalie	Hello
+Spheal	Good Morning
+Sealeo	Afternoon
+Walrein	Sup
+Clamperl	Top o' the morning
+Huntail	Hi
+Gorebyss	Hello
+Relicanth	Good Morning
+Luvdisc	Afternoon
+Bagon	Sup
+Shelgon	Top o' the morning
+Salamence	Hi
+Beldum	Hello
+Metang	Good Morning
+Metagross	Afternoon
+Regirock	Sup
+Regice	Top o' the morning
+Registeel	Hi
+Latias	Hello
+Latios	Good Morning
+Kyogre	Afternoon
+Groudon	Sup
+Rayquaza	Top o' the morning
+Jirachi	Hi
+Deoxys	Hello
+Turtwig	Good Morning
+Grotle	Afternoon
+Torterra	Sup
+Chimchar	Top o' the morning
+Monferno	Hi
+Infernape	Hello
+Piplup	Good Morning
+Prinplup	Afternoon
+Empoleon	Sup
+Starly	Top o' the morning
+Staravia	Hi
+Staraptor	Hello
+Bidoof	Good Morning
+Bibarel	Afternoon
+Kricketot	Sup
+Kricketune	Top o' the morning
+Shinx	Hi
+Luxio	Hello
+Luxray	Good Morning
+Budew	Afternoon
+Roserade	Sup
+Cranidos	Top o' the morning
+Rampardos	Hi
+Shieldon	Hello
+Bastiodon	Good Morning
+Burmy	Afternoon
+Wormadam	Sup
+Mothim	Top o' the morning
+Combee	Hi
+Vespiquen	Hello
+Pachirisu	Good Morning
+Buizel	Afternoon
+Floatzel	Sup
+Cherubi	Top o' the morning
+Cherrim	Hi
+Shellos	Hello
+Gastrodon	Good Morning
+Ambipom	Afternoon
+Drifloon	Sup
+Drifblim	Top o' the morning
+Buneary	Hi
+Lopunny	Hello
+Mismagius	Good Morning
+Honchkrow	Afternoon
+Glameow	Sup
+Purugly	Top o' the morning
+Chingling	Hi
+Stunky	Hello
+Skuntank	Good Morning
+Bronzor	Afternoon
+Bronzong	Sup
+Bonsly	Top o' the morning
+Mime Jr.	Hi
+Happiny	Hello
+Chatot	Good Morning
+Spiritomb	Afternoon
+Gible	Sup
+Gabite	Top o' the morning
+Garchomp	Hi
+Munchlax	Hello
+Riolu	Good Morning
+Lucario	Afternoon
+Hippopotas	Sup
+Hippowdon	Top o' the morning
+Skorupi	Hi
+Drapion	Hello
+Croagunk	Good Morning
+Toxicroak	Afternoon
+Carnivine	Sup
+Finneon	Top o' the morning
+Lumineon	Hi
+Mantyke	Hello
+Snover	Good Morning
+Abomasnow	Afternoon
+Weavile	Sup
+Magnezone	Top o' the morning
+Lickilicky	Hi
+Rhyperior	Hello
+Tangrowth	Good Morning
+Electivire	Afternoon
+Magmortar	Sup
+Togekiss	Top o' the morning
+Yanmega	Hi
+Leafeon	Hello
+Glaceon	Good Morning
+Gliscor	Afternoon
+Mamoswine	Sup
+Porygon-Z	Top o' the morning
+Gallade	Hi
+Probopass	Hello
+Dusknoir	Good Morning
+Froslass	Afternoon
+Rotom	Sup
+Uxie	Top o' the morning
+Mesprit	Hi
+Azelf	Hello
+Dialga	Good Morning
+Palkia	Afternoon
+Heatran	Sup
+Regigigas	Top o' the morning
+Giratina	Hi
+Cresselia	Hello
+Phione	Good Morning
+Manaphy	Afternoon
+Darkrai	Sup
+Shaymin	Top o' the morning
+Arceus	Hi
+Victini	Hello
+Snivy	Good Morning
+Servine	Afternoon
+Serperior	Sup
+Tepig	Top o' the morning
+Pignite	Hi
+Emboar	Hello
+Oshawott	Good Morning
+Dewott	Afternoon
+Samurott	Sup
+Patrat	Top o' the morning
+Watchog	Hi
+Lillipup	Hello
+Herdier	Good Morning
+Stoutland	Afternoon
+Purrloin	Sup
+Liepard	Top o' the morning
+Pansage	Hi
+Simisage	Hello
+Pansear	Good Morning
+Simisear	Afternoon
+Panpour	Sup
+Simipour	Top o' the morning
+Munna	Hi
+Musharna	Hello
+Pidove	Good Morning
+Tranquill	Afternoon
+Unfezant	Sup
+Blitzle	Top o' the morning
+Zebstrika	Hi
+Roggenrola	Hello
+Boldore	Good Morning
+Gigalith	Afternoon
+Woobat	Sup
+Swoobat	Top o' the morning
+Drilbur	Hi
+Excadrill	Hello
+Audino	Good Morning
+Timburr	Afternoon
+Gurdurr	Sup
+Conkeldurr	Top o' the morning
+Tympole	Hi
+Palpitoad	Hello
+Seismitoad	Good Morning
+Throh	Afternoon
+Sawk	Sup
+Sewaddle	Top o' the morning
+Swadloon	Hi
+Leavanny	Hello
+Venipede	Good Morning
+Whirlipede	Afternoon
+Scolipede	Sup
+Cottonee	Top o' the morning
+Whimsicott	Hi
+Petilil	Hello
+Lilligant	Good Morning
+Basculin	Afternoon
+Sandile	Sup
+Krokorok	Top o' the morning
+Krookodile	Hi
+Darumaka	Hello
+Darmanitan	Good Morning
+Maractus	Afternoon
+Dwebble	Sup
+Crustle	Top o' the morning
+Scraggy	Hi
+Scrafty	Hello
+Sigilyph	Good Morning
+Yamask	Afternoon
+Cofagrigus	Sup
+Tirtouga	Top o' the morning
+Carracosta	Hi
+Archen	Hello
+Archeops	Good Morning
+Trubbish	Afternoon
+Garbodor	Sup
+Zorua	Top o' the morning
+Zoroark	Hi
+Minccino	Hello
+Cinccino	Good Morning
+Gothita	Afternoon
+Gothorita	Sup
+Gothitelle	Top o' the morning
+Solosis	Hi
+Duosion	Hello
+Reuniclus	Good Morning
+Ducklett	Afternoon
+Swanna	Sup
+Vanillite	Top o' the morning
+Vanillish	Hi
+Vanilluxe	Hello
+Deerling	Good Morning
+Sawsbuck	Afternoon
+Emolga	Sup
+Karrablast	Top o' the morning
+Escavalier	Hi
+Foongus	Hello
+Amoonguss	Good Morning
+Frillish	Afternoon
+Jellicent	Sup
+Alomomola	Top o' the morning
+Joltik	Hi
+Galvantula	Hello
+Ferroseed	Good Morning
+Ferrothorn	Afternoon
+Klink	Sup
+Klang	Top o' the morning
+Klinklang	Hi
+Tynamo	Hello
+Eelektrik	Good Morning
+Eelektross	Afternoon
+Elgyem	Sup
+Beheeyem	Top o' the morning
+Litwick	Hi
+Lampent	Hello
+Chandelure	Good Morning
+Axew	Afternoon
+Fraxure	Sup
+Haxorus	Top o' the morning
+Cubchoo	Hi
+Beartic	Hello
+Cryogonal	Good Morning
+Shelmet	Afternoon
+Accelgor	Sup
+Stunfisk	Top o' the morning
+Mienfoo	Hi
+Mienshao	Hello
+Druddigon	Good Morning
+Golett	Afternoon
+Golurk	Sup
+Pawniard	Top o' the morning
+Bisharp	Hi
+Bouffalant	Hello
+Rufflet	Good Morning
+Braviary	Afternoon
+Vullaby	Sup
+Mandibuzz	Top o' the morning
+Heatmor	Hi
+Durant	Hello
+Deino	Good Morning
+Zweilous	Afternoon
+Hydreigon	Sup
+Larvesta	Top o' the morning
+Volcarona	Hi
+Cobalion	Hello
+Terrakion	Good Morning
+Virizion	Afternoon
+Tornadus	Sup
+Thundurus	Top o' the morning
+Reshiram	Hi
+Zekrom	Hello
+Landorus	Good Morning
+Kyurem	Afternoon
+Keldeo	Sup
+Meloetta	Top o' the morning
+Genesect	Hi
+Chespin	Hello
+Quilladin	Good Morning
+Chesnaught	Afternoon
+Fennekin	Sup
+Braixen	Top o' the morning
+Delphox	Hi
+Froakie	Hello
+Frogadier	Good Morning
+Greninja	Afternoon
+Bunnelby	Sup
+Diggersby	Top o' the morning
+Fletchling	Hi
+Fletchinder	Hello
+Talonflame	Good Morning
+Scatterbug	Afternoon
+Spewpa	Sup
+Vivillon	Top o' the morning
+Litleo	Hi
+Pyroar	Hello
+Flabébé	Good Morning
+Floette	Afternoon
+Florges	Sup
+Skiddo	Top o' the morning
+Gogoat	Hi
+Pancham	Hello
+Pangoro	Good Morning
+Furfrou	Afternoon
+Espurr	Sup
+Meowstic	Top o' the morning
+Honedge	Hi
+Doublade	Hello
+Aegislash	Good Morning
+Spritzee	Afternoon
+Aromatisse	Sup
+Swirlix	Top o' the morning
+Slurpuff	Hi
+Inkay	Hello
+Malamar	Good Morning
+Binacle	Afternoon
+Barbaracle	Sup
+Skrelp	Top o' the morning
+Dragalge	Hi
+Clauncher	Hello
+Clawitzer	Good Morning
+Helioptile	Afternoon
+Heliolisk	Sup
+Tyrunt	Top o' the morning
+Tyrantrum	Hi
+Amaura	Hello
+Aurorus	Good Morning
+Sylveon	Afternoon
+Hawlucha	Sup
+Dedenne	Top o' the morning
+Carbink	Hi
+Goomy	Hello
+Sliggoo	Good Morning
+Goodra	Afternoon
+Klefki	Sup
+Phantump	Top o' the morning
+Trevenant	Hi
+Pumpkaboo	Hello
+Gourgeist	Good Morning
+Bergmite	Afternoon
+Avalugg	Sup
+Noibat	Top o' the morning
+Noivern	Hi
+Xerneas	Hello
+Yveltal	Good Morning
+Zygarde	Afternoon
+Diancie	Sup
+Hoopa	Top o' the morning
+Volcanion	Hi
+Rowlet	Hello
+Dartrix	Good Morning
+Decidueye	Afternoon
+Litten	Sup
+Torracat	Top o' the morning
+Incineroar	Hi
+Popplio	Hello
+Brionne	Good Morning
+Primarina	Afternoon
+Pikipek	Sup
+Trumbeak	Top o' the morning
+Toucannon	Hi
+Yungoos	Hello
+Gumshoos	Good Morning
+Grubbin	Afternoon
+Charjabug	Sup
+Vikavolt	Top o' the morning
+Crabrawler	Hi
+Crabominable	Hello
+Oricorio	Good Morning
+Cutiefly	Afternoon
+Ribombee	Sup
+Rockruff	Top o' the morning
+Lycanroc	Hi
+Wishiwashi	Hello
+Mareanie	Good Morning
+Toxapex	Afternoon
+Mudbray	Sup
+Mudsdale	Top o' the morning
+Dewpider	Hi
+Araquanid	Hello
+Fomantis	Good Morning
+Lurantis	Afternoon
+Morelull	Sup
+Shiinotic	Top o' the morning
+Salandit	Hi
+Salazzle	Hello
+Stufful	Good Morning
+Bewear	Afternoon
+Bounsweet	Sup
+Steenee	Top o' the morning
+Tsareena	Hi
+Comfey	Hello
+Oranguru	Good Morning
+Passimian	Afternoon
+Wimpod	Sup
+Golisopod	Top o' the morning
+Sandygast	Hi
+Palossand	Hello
+Pyukumuku	Good Morning
+Type: Null	Afternoon
+Silvally	Sup
+Minior	Top o' the morning
+Komala	Hi
+Turtonator	Hello
+Togedemaru	Good Morning
+Mimikyu	Afternoon
+Bruxish	Sup
+Drampa	Top o' the morning
+Dhelmise	Hi
+Jangmo-o	Hello
+Hakamo-o	Good Morning
+Kommo-o	Afternoon
+Tapu Koko	Sup
+Tapu Lele	Top o' the morning
+Tapu Bulu	Hi
+Tapu Fini	Hello
+Cosmog	Good Morning
+Cosmoem	Afternoon
+Solgaleo	Sup
+Lunala	Top o' the morning
+Nihilego	Hi
+Buzzwole	Hello
+Pheromosa	Good Morning
+Xurkitree	Afternoon
+Celesteela	Sup
+Kartana	Top o' the morning
+Guzzlord	Hi
+Necrozma	Hello
+Magearna	Good Morning
+Marshadow	Afternoon
+Poipole	Sup
+Naganadel	Top o' the morning
+Stakataka	Hi
+Blacephalon	Hello
+Meltan	Good Morning
+Melmetal	Yo
