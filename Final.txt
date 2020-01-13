@@ -1,0 +1,808 @@
+Bulbasaur	Hi	This
+Ivysaur	Hello	Is
+Venusaur	Good Morning	The
+Charmander	Afternoon	Final
+Charmeleon	Sup	Test
+Charizard	Top o' the morning	Before
+Squirtle	Hi	I
+Wartortle	Hello	Can
+Blastoise	Good Morning	Take
+Caterpie	Afternoon	This
+Metapod	Sup	Seriously
+Butterfree	Top o' the morning	This
+Weedle	Hi	Is
+Kakuna	Hello	The
+Beedrill	Good Morning	Final
+Pidgey	Afternoon	Test
+Pidgeotto	Sup	Before
+Pidgeot	Top o' the morning	I
+Rattata	Hi	Can
+Raticate	Hello	Take
+Spearow	Good Morning	This
+Fearow	Afternoon	Seriously
+Ekans	Sup	This
+Arbok	Top o' the morning	Is
+Pikachu	Hi	The
+Raichu	Hello	Final
+Sandshrew	Good Morning	Test
+Sandslash	Afternoon	Before
+Nidoran♀	Sup	I
+Nidorina	Top o' the morning	Can
+Nidoqueen	Hi	Take
+Nidoran♂	Hello	This
+Nidorino	Good Morning	Seriously
+Nidoking	Afternoon	This
+Clefairy	Sup	Is
+Clefable	Top o' the morning	The
+Vulpix	Hi	Final
+Ninetales	Hello	Test
+Jigglypuff	Good Morning	Before
+Wigglytuff	Afternoon	I
+Zubat	Sup	Can
+Golbat	Top o' the morning	Take
+Oddish	Hi	This
+Gloom	Hello	Seriously
+Vileplume	Good Morning	This
+Paras	Afternoon	Is
+Parasect	Sup	The
+Venonat	Top o' the morning	Final
+Venomoth	Hi	Test
+Diglett	Hello	Before
+Dugtrio	Good Morning	I
+Meowth	Afternoon	Can
+Persian	Sup	Take
+Psyduck	Top o' the morning	This
+Golduck	Hi	Seriously
+Mankey	Hello	This
+Primeape	Good Morning	Is
+Growlithe	Afternoon	The
+Arcanine	Sup	Final
+Poliwag	Top o' the morning	Test
+Poliwhirl	Hi	Before
+Poliwrath	Hello	I
+Abra	Good Morning	Can
+Kadabra	Afternoon	Take
+Alakazam	Sup	This
+Machop	Top o' the morning	Seriously
+Machoke	Hi	This
+Machamp	Hello	Is
+Bellsprout	Good Morning	The
+Weepinbell	Afternoon	Final
+Victreebel	Sup	Test
+Tentacool	Top o' the morning	Before
+Tentacruel	Hi	I
+Geodude	Hello	Can
+Graveler	Good Morning	Take
+Golem	Afternoon	This
+Ponyta	Sup	Seriously
+Rapidash	Top o' the morning	This
+Slowpoke	Hi	Is
+Slowbro	Hello	The
+Magnemite	Good Morning	Final
+Magneton	Afternoon	Test
+Farfetch'd	Sup	Before
+Doduo	Top o' the morning	I
+Dodrio	Hi	Can
+Seel	Hello	Take
+Dewgong	Good Morning	This
+Grimer	Afternoon	Seriously
+Muk	Sup	This
+Shellder	Top o' the morning	Is
+Cloyster	Hi	The
+Gastly	Hello	Final
+Haunter	Good Morning	Test
+Gengar	Afternoon	Before
+Onix	Sup	I
+Drowzee	Top o' the morning	Can
+Hypno	Hi	Take
+Krabby	Hello	This
+Kingler	Good Morning	Seriously
+Voltorb	Afternoon	This
+Electrode	Sup	Is
+Exeggcute	Top o' the morning	The
+Exeggutor	Hi	Final
+Cubone	Hello	Test
+Marowak	Good Morning	Before
+Hitmonlee	Afternoon	I
+Hitmonchan	Sup	Can
+Lickitung	Top o' the morning	Take
+Koffing	Hi	This
+Weezing	Hello	Seriously
+Rhyhorn	Good Morning	This
+Rhydon	Afternoon	Is
+Chansey	Sup	The
+Tangela	Top o' the morning	Final
+Kangaskhan	Hi	Test
+Horsea	Hello	Before
+Seadra	Good Morning	I
+Goldeen	Afternoon	Can
+Seaking	Sup	Take
+Staryu	Top o' the morning	This
+Starmie	Hi	Seriously
+Mr. Mime	Hello	This
+Scyther	Good Morning	Is
+Jynx	Afternoon	The
+Electabuzz	Sup	Final
+Magmar	Top o' the morning	Test
+Pinsir	Hi	Before
+Tauros	Hello	I
+Magikarp	Good Morning	Can
+Gyarados	Afternoon	Take
+Lapras	Sup	This
+Ditto	Top o' the morning	Seriously
+Eevee	Hi	This
+Vaporeon	Hello	Is
+Jolteon	Good Morning	The
+Flareon	Afternoon	Final
+Porygon	Sup	Test
+Omanyte	Top o' the morning	Before
+Omastar	Hi	I
+Kabuto	Hello	Can
+Kabutops	Good Morning	Take
+Aerodactyl	Afternoon	This
+Snorlax	Sup	Seriously
+Articuno	Top o' the morning	This
+Zapdos	Hi	Is
+Moltres	Hello	The
+Dratini	Good Morning	Final
+Dragonair	Afternoon	Test
+Dragonite	Sup	Before
+Mewtwo	Top o' the morning	I
+Mew	Hi	Can
+Chikorita	Hello	Take
+Bayleef	Good Morning	This
+Meganium	Afternoon	Seriously
+Cyndaquil	Sup	This
+Quilava	Top o' the morning	Is
+Typhlosion	Hi	The
+Totodile	Hello	Final
+Croconaw	Good Morning	Test
+Feraligatr	Afternoon	Before
+Sentret	Sup	I
+Furret	Top o' the morning	Can
+Hoothoot	Hi	Take
+Noctowl	Hello	This
+Ledyba	Good Morning	Seriously
+Ledian	Afternoon	This
+Spinarak	Sup	Is
+Ariados	Top o' the morning	The
+Crobat	Hi	Final
+Chinchou	Hello	Test
+Lanturn	Good Morning	Before
+Pichu	Afternoon	I
+Cleffa	Sup	Can
+Igglybuff	Top o' the morning	Take
+Togepi	Hi	This
+Togetic	Hello	Seriously
+Natu	Good Morning	This
+Xatu	Afternoon	Is
+Mareep	Sup	The
+Flaaffy	Top o' the morning	Final
+Ampharos	Hi	Test
+Bellossom	Hello	Before
+Marill	Good Morning	I
+Azumarill	Afternoon	Can
+Sudowoodo	Sup	Take
+Politoed	Top o' the morning	This
+Hoppip	Hi	Seriously
+Skiploom	Hello	This
+Jumpluff	Good Morning	Is
+Aipom	Afternoon	The
+Sunkern	Sup	Final
+Sunflora	Top o' the morning	Test
+Yanma	Hi	Before
+Wooper	Hello	I
+Quagsire	Good Morning	Can
+Espeon	Afternoon	Take
+Umbreon	Sup	This
+Murkrow	Top o' the morning	Seriously
+Slowking	Hi	This
+Misdreavus	Hello	Is
+Unown	Good Morning	The
+Wobbuffet	Afternoon	Final
+Girafarig	Sup	Test
+Pineco	Top o' the morning	Before
+Forretress	Hi	I
+Dunsparce	Hello	Can
+Gligar	Good Morning	Take
+Steelix	Afternoon	This
+Snubbull	Sup	Seriously
+Granbull	Top o' the morning	This
+Qwilfish	Hi	Is
+Scizor	Hello	The
+Shuckle	Good Morning	Final
+Heracross	Afternoon	Test
+Sneasel	Sup	Before
+Teddiursa	Top o' the morning	I
+Ursaring	Hi	Can
+Slugma	Hello	Take
+Magcargo	Good Morning	This
+Swinub	Afternoon	Seriously
+Piloswine	Sup	This
+Corsola	Top o' the morning	Is
+Remoraid	Hi	The
+Octillery	Hello	Final
+Delibird	Good Morning	Test
+Mantine	Afternoon	Before
+Skarmory	Sup	I
+Houndour	Top o' the morning	Can
+Houndoom	Hi	Take
+Kingdra	Hello	This
+Phanpy	Good Morning	Seriously
+Donphan	Afternoon	This
+Porygon2	Sup	Is
+Stantler	Top o' the morning	The
+Smeargle	Hi	Final
+Tyrogue	Hello	Test
+Hitmontop	Good Morning	Before
+Smoochum	Afternoon	I
+Elekid	Sup	Can
+Magby	Top o' the morning	Take
+Miltank	Hi	This
+Blissey	Hello	Seriously
+Raikou	Good Morning	This
+Entei	Afternoon	Is
+Suicune	Sup	The
+Larvitar	Top o' the morning	Final
+Pupitar	Hi	Test
+Tyranitar	Hello	Before
+Lugia	Good Morning	I
+Ho-Oh	Afternoon	Can
+Celebi	Sup	Take
+Treecko	Top o' the morning	This
+Grovyle	Hi	Seriously
+Sceptile	Hello	This
+Torchic	Good Morning	Is
+Combusken	Afternoon	The
+Blaziken	Sup	Final
+Mudkip	Top o' the morning	Test
+Marshtomp	Hi	Before
+Swampert	Hello	I
+Poochyena	Good Morning	Can
+Mightyena	Afternoon	Take
+Zigzagoon	Sup	This
+Linoone	Top o' the morning	Seriously
+Wurmple	Hi	This
+Silcoon	Hello	Is
+Beautifly	Good Morning	The
+Cascoon	Afternoon	Final
+Dustox	Sup	Test
+Lotad	Top o' the morning	Before
+Lombre	Hi	I
+Ludicolo	Hello	Can
+Seedot	Good Morning	Take
+Nuzleaf	Afternoon	This
+Shiftry	Sup	Seriously
+Taillow	Top o' the morning	This
+Swellow	Hi	Is
+Wingull	Hello	The
+Pelipper	Good Morning	Final
+Ralts	Afternoon	Test
+Kirlia	Sup	Before
+Gardevoir	Top o' the morning	I
+Surskit	Hi	Can
+Masquerain	Hello	Take
+Shroomish	Good Morning	This
+Breloom	Afternoon	Seriously
+Slakoth	Sup	This
+Vigoroth	Top o' the morning	Is
+Slaking	Hi	The
+Nincada	Hello	Final
+Ninjask	Good Morning	Test
+Shedinja	Afternoon	Before
+Whismur	Sup	I
+Loudred	Top o' the morning	Can
+Exploud	Hi	Take
+Makuhita	Hello	This
+Hariyama	Good Morning	Seriously
+Azurill	Afternoon	This
+Nosepass	Sup	Is
+Skitty	Top o' the morning	The
+Delcatty	Hi	Final
+Sableye	Hello	Test
+Mawile	Good Morning	Before
+Aron	Afternoon	I
+Lairon	Sup	Can
+Aggron	Top o' the morning	Take
+Meditite	Hi	This
+Medicham	Hello	Seriously
+Electrike	Good Morning	This
+Manectric	Afternoon	Is
+Plusle	Sup	The
+Minun	Top o' the morning	Final
+Volbeat	Hi	Test
+Illumise	Hello	Before
+Roselia	Good Morning	I
+Gulpin	Afternoon	Can
+Swalot	Sup	Take
+Carvanha	Top o' the morning	This
+Sharpedo	Hi	Seriously
+Wailmer	Hello	This
+Wailord	Good Morning	Is
+Numel	Afternoon	The
+Camerupt	Sup	Final
+Torkoal	Top o' the morning	Test
+Spoink	Hi	Before
+Grumpig	Hello	I
+Spinda	Good Morning	Can
+Trapinch	Afternoon	Take
+Vibrava	Sup	This
+Flygon	Top o' the morning	Seriously
+Cacnea	Hi	This
+Cacturne	Hello	Is
+Swablu	Good Morning	The
+Altaria	Afternoon	Final
+Zangoose	Sup	Test
+Seviper	Top o' the morning	Before
+Lunatone	Hi	I
+Solrock	Hello	Can
+Barboach	Good Morning	Take
+Whiscash	Afternoon	This
+Corphish	Sup	Seriously
+Crawdaunt	Top o' the morning	This
+Baltoy	Hi	Is
+Claydol	Hello	The
+Lileep	Good Morning	Final
+Cradily	Afternoon	Test
+Anorith	Sup	Before
+Armaldo	Top o' the morning	I
+Feebas	Hi	Can
+Milotic	Hello	Take
+Castform	Good Morning	This
+Kecleon	Afternoon	Seriously
+Shuppet	Sup	This
+Banette	Top o' the morning	Is
+Duskull	Hi	The
+Dusclops	Hello	Final
+Tropius	Good Morning	Test
+Chimecho	Afternoon	Before
+Absol	Sup	I
+Wynaut	Top o' the morning	Can
+Snorunt	Hi	Take
+Glalie	Hello	This
+Spheal	Good Morning	Seriously
+Sealeo	Afternoon	This
+Walrein	Sup	Is
+Clamperl	Top o' the morning	The
+Huntail	Hi	Final
+Gorebyss	Hello	Test
+Relicanth	Good Morning	Before
+Luvdisc	Afternoon	I
+Bagon	Sup	Can
+Shelgon	Top o' the morning	Take
+Salamence	Hi	This
+Beldum	Hello	Seriously
+Metang	Good Morning	This
+Metagross	Afternoon	Is
+Regirock	Sup	The
+Regice	Top o' the morning	Final
+Registeel	Hi	Test
+Latias	Hello	Before
+Latios	Good Morning	I
+Kyogre	Afternoon	Can
+Groudon	Sup	Take
+Rayquaza	Top o' the morning	This
+Jirachi	Hi	Seriously
+Deoxys	Hello	This
+Turtwig	Good Morning	Is
+Grotle	Afternoon	The
+Torterra	Sup	Final
+Chimchar	Top o' the morning	Test
+Monferno	Hi	Before
+Infernape	Hello	I
+Piplup	Good Morning	Can
+Prinplup	Afternoon	Take
+Empoleon	Sup	This
+Starly	Top o' the morning	Seriously
+Staravia	Hi	This
+Staraptor	Hello	Is
+Bidoof	Good Morning	The
+Bibarel	Afternoon	Final
+Kricketot	Sup	Test
+Kricketune	Top o' the morning	Before
+Shinx	Hi	I
+Luxio	Hello	Can
+Luxray	Good Morning	Take
+Budew	Afternoon	This
+Roserade	Sup	Seriously
+Cranidos	Top o' the morning	This
+Rampardos	Hi	Is
+Shieldon	Hello	The
+Bastiodon	Good Morning	Final
+Burmy	Afternoon	Test
+Wormadam	Sup	Before
+Mothim	Top o' the morning	I
+Combee	Hi	Can
+Vespiquen	Hello	Take
+Pachirisu	Good Morning	This
+Buizel	Afternoon	Seriously
+Floatzel	Sup	This
+Cherubi	Top o' the morning	Is
+Cherrim	Hi	The
+Shellos	Hello	Final
+Gastrodon	Good Morning	Test
+Ambipom	Afternoon	Before
+Drifloon	Sup	I
+Drifblim	Top o' the morning	Can
+Buneary	Hi	Take
+Lopunny	Hello	This
+Mismagius	Good Morning	Seriously
+Honchkrow	Afternoon	This
+Glameow	Sup	Is
+Purugly	Top o' the morning	The
+Chingling	Hi	Final
+Stunky	Hello	Test
+Skuntank	Good Morning	Before
+Bronzor	Afternoon	I
+Bronzong	Sup	Can
+Bonsly	Top o' the morning	Take
+Mime Jr.	Hi	This
+Happiny	Hello	Seriously
+Chatot	Good Morning	This
+Spiritomb	Afternoon	Is
+Gible	Sup	The
+Gabite	Top o' the morning	Final
+Garchomp	Hi	Test
+Munchlax	Hello	Before
+Riolu	Good Morning	I
+Lucario	Afternoon	Can
+Hippopotas	Sup	Take
+Hippowdon	Top o' the morning	This
+Skorupi	Hi	Seriously
+Drapion	Hello	This
+Croagunk	Good Morning	Is
+Toxicroak	Afternoon	The
+Carnivine	Sup	Final
+Finneon	Top o' the morning	Test
+Lumineon	Hi	Before
+Mantyke	Hello	I
+Snover	Good Morning	Can
+Abomasnow	Afternoon	Take
+Weavile	Sup	This
+Magnezone	Top o' the morning	Seriously
+Lickilicky	Hi	This
+Rhyperior	Hello	Is
+Tangrowth	Good Morning	The
+Electivire	Afternoon	Final
+Magmortar	Sup	Test
+Togekiss	Top o' the morning	Before
+Yanmega	Hi	I
+Leafeon	Hello	Can
+Glaceon	Good Morning	Take
+Gliscor	Afternoon	This
+Mamoswine	Sup	Seriously
+Porygon-Z	Top o' the morning	This
+Gallade	Hi	Is
+Probopass	Hello	The
+Dusknoir	Good Morning	Final
+Froslass	Afternoon	Test
+Rotom	Sup	Before
+Uxie	Top o' the morning	I
+Mesprit	Hi	Can
+Azelf	Hello	Take
+Dialga	Good Morning	This
+Palkia	Afternoon	Seriously
+Heatran	Sup	This
+Regigigas	Top o' the morning	Is
+Giratina	Hi	The
+Cresselia	Hello	Final
+Phione	Good Morning	Test
+Manaphy	Afternoon	Before
+Darkrai	Sup	I
+Shaymin	Top o' the morning	Can
+Arceus	Hi	Take
+Victini	Hello	This
+Snivy	Good Morning	Seriously
+Servine	Afternoon	This
+Serperior	Sup	Is
+Tepig	Top o' the morning	The
+Pignite	Hi	Final
+Emboar	Hello	Test
+Oshawott	Good Morning	Before
+Dewott	Afternoon	I
+Samurott	Sup	Can
+Patrat	Top o' the morning	Take
+Watchog	Hi	This
+Lillipup	Hello	Seriously
+Herdier	Good Morning	This
+Stoutland	Afternoon	Is
+Purrloin	Sup	The
+Liepard	Top o' the morning	Final
+Pansage	Hi	Test
+Simisage	Hello	Before
+Pansear	Good Morning	I
+Simisear	Afternoon	Can
+Panpour	Sup	Take
+Simipour	Top o' the morning	This
+Munna	Hi	Seriously
+Musharna	Hello	This
+Pidove	Good Morning	Is
+Tranquill	Afternoon	The
+Unfezant	Sup	Final
+Blitzle	Top o' the morning	Test
+Zebstrika	Hi	Before
+Roggenrola	Hello	I
+Boldore	Good Morning	Can
+Gigalith	Afternoon	Take
+Woobat	Sup	This
+Swoobat	Top o' the morning	Seriously
+Drilbur	Hi	This
+Excadrill	Hello	Is
+Audino	Good Morning	The
+Timburr	Afternoon	Final
+Gurdurr	Sup	Test
+Conkeldurr	Top o' the morning	Before
+Tympole	Hi	I
+Palpitoad	Hello	Can
+Seismitoad	Good Morning	Take
+Throh	Afternoon	This
+Sawk	Sup	Seriously
+Sewaddle	Top o' the morning	This
+Swadloon	Hi	Is
+Leavanny	Hello	The
+Venipede	Good Morning	Final
+Whirlipede	Afternoon	Test
+Scolipede	Sup	Before
+Cottonee	Top o' the morning	I
+Whimsicott	Hi	Can
+Petilil	Hello	Take
+Lilligant	Good Morning	This
+Basculin	Afternoon	Seriously
+Sandile	Sup	This
+Krokorok	Top o' the morning	Is
+Krookodile	Hi	The
+Darumaka	Hello	Final
+Darmanitan	Good Morning	Test
+Maractus	Afternoon	Before
+Dwebble	Sup	I
+Crustle	Top o' the morning	Can
+Scraggy	Hi	Take
+Scrafty	Hello	This
+Sigilyph	Good Morning	Seriously
+Yamask	Afternoon	This
+Cofagrigus	Sup	Is
+Tirtouga	Top o' the morning	The
+Carracosta	Hi	Final
+Archen	Hello	Test
+Archeops	Good Morning	Before
+Trubbish	Afternoon	I
+Garbodor	Sup	Can
+Zorua	Top o' the morning	Take
+Zoroark	Hi	This
+Minccino	Hello	Seriously
+Cinccino	Good Morning	This
+Gothita	Afternoon	Is
+Gothorita	Sup	The
+Gothitelle	Top o' the morning	Final
+Solosis	Hi	Test
+Duosion	Hello	Before
+Reuniclus	Good Morning	I
+Ducklett	Afternoon	Can
+Swanna	Sup	Take
+Vanillite	Top o' the morning	This
+Vanillish	Hi	Seriously
+Vanilluxe	Hello	This
+Deerling	Good Morning	Is
+Sawsbuck	Afternoon	The
+Emolga	Sup	Final
+Karrablast	Top o' the morning	Test
+Escavalier	Hi	Before
+Foongus	Hello	I
+Amoonguss	Good Morning	Can
+Frillish	Afternoon	Take
+Jellicent	Sup	This
+Alomomola	Top o' the morning	Seriously
+Joltik	Hi	This
+Galvantula	Hello	Is
+Ferroseed	Good Morning	The
+Ferrothorn	Afternoon	Final
+Klink	Sup	Test
+Klang	Top o' the morning	Before
+Klinklang	Hi	I
+Tynamo	Hello	Can
+Eelektrik	Good Morning	Take
+Eelektross	Afternoon	This
+Elgyem	Sup	Seriously
+Beheeyem	Top o' the morning	This
+Litwick	Hi	Is
+Lampent	Hello	The
+Chandelure	Good Morning	Final
+Axew	Afternoon	Test
+Fraxure	Sup	Before
+Haxorus	Top o' the morning	I
+Cubchoo	Hi	Can
+Beartic	Hello	Take
+Cryogonal	Good Morning	This
+Shelmet	Afternoon	Seriously
+Accelgor	Sup	This
+Stunfisk	Top o' the morning	Is
+Mienfoo	Hi	The
+Mienshao	Hello	Final
+Druddigon	Good Morning	Test
+Golett	Afternoon	Before
+Golurk	Sup	I
+Pawniard	Top o' the morning	Can
+Bisharp	Hi	Take
+Bouffalant	Hello	This
+Rufflet	Good Morning	Seriously
+Braviary	Afternoon	This
+Vullaby	Sup	Is
+Mandibuzz	Top o' the morning	The
+Heatmor	Hi	Final
+Durant	Hello	Test
+Deino	Good Morning	Before
+Zweilous	Afternoon	I
+Hydreigon	Sup	Can
+Larvesta	Top o' the morning	Take
+Volcarona	Hi	This
+Cobalion	Hello	Seriously
+Terrakion	Good Morning	This
+Virizion	Afternoon	Is
+Tornadus	Sup	The
+Thundurus	Top o' the morning	Final
+Reshiram	Hi	Test
+Zekrom	Hello	Before
+Landorus	Good Morning	I
+Kyurem	Afternoon	Can
+Keldeo	Sup	Take
+Meloetta	Top o' the morning	This
+Genesect	Hi	Seriously
+Chespin	Hello	This
+Quilladin	Good Morning	Is
+Chesnaught	Afternoon	The
+Fennekin	Sup	Final
+Braixen	Top o' the morning	Test
+Delphox	Hi	Before
+Froakie	Hello	I
+Frogadier	Good Morning	Can
+Greninja	Afternoon	Take
+Bunnelby	Sup	This
+Diggersby	Top o' the morning	Seriously
+Fletchling	Hi	This
+Fletchinder	Hello	Is
+Talonflame	Good Morning	The
+Scatterbug	Afternoon	Final
+Spewpa	Sup	Test
+Vivillon	Top o' the morning	Before
+Litleo	Hi	I
+Pyroar	Hello	Can
+Flabébé	Good Morning	Take
+Floette	Afternoon	This
+Florges	Sup	Seriously
+Skiddo	Top o' the morning	This
+Gogoat	Hi	Is
+Pancham	Hello	The
+Pangoro	Good Morning	Final
+Furfrou	Afternoon	Test
+Espurr	Sup	Before
+Meowstic	Top o' the morning	I
+Honedge	Hi	Can
+Doublade	Hello	Take
+Aegislash	Good Morning	This
+Spritzee	Afternoon	Seriously
+Aromatisse	Sup	This
+Swirlix	Top o' the morning	Is
+Slurpuff	Hi	The
+Inkay	Hello	Final
+Malamar	Good Morning	Test
+Binacle	Afternoon	Before
+Barbaracle	Sup	I
+Skrelp	Top o' the morning	Can
+Dragalge	Hi	Take
+Clauncher	Hello	This
+Clawitzer	Good Morning	Seriously
+Helioptile	Afternoon	This
+Heliolisk	Sup	Is
+Tyrunt	Top o' the morning	The
+Tyrantrum	Hi	Final
+Amaura	Hello	Test
+Aurorus	Good Morning	Before
+Sylveon	Afternoon	I
+Hawlucha	Sup	Can
+Dedenne	Top o' the morning	Take
+Carbink	Hi	This
+Goomy	Hello	Seriously
+Sliggoo	Good Morning	This
+Goodra	Afternoon	Is
+Klefki	Sup	The
+Phantump	Top o' the morning	Final
+Trevenant	Hi	Test
+Pumpkaboo	Hello	Before
+Gourgeist	Good Morning	I
+Bergmite	Afternoon	Can
+Avalugg	Sup	Take
+Noibat	Top o' the morning	This
+Noivern	Hi	Seriously
+Xerneas	Hello	This
+Yveltal	Good Morning	Is
+Zygarde	Afternoon	The
+Diancie	Sup	Final
+Hoopa	Top o' the morning	Test
+Volcanion	Hi	Before
+Rowlet	Hello	I
+Dartrix	Good Morning	Can
+Decidueye	Afternoon	Take
+Litten	Sup	This
+Torracat	Top o' the morning	Seriously
+Incineroar	Hi	This
+Popplio	Hello	Is
+Brionne	Good Morning	The
+Primarina	Afternoon	Final
+Pikipek	Sup	Test
+Trumbeak	Top o' the morning	Before
+Toucannon	Hi	I
+Yungoos	Hello	Can
+Gumshoos	Good Morning	Take
+Grubbin	Afternoon	This
+Charjabug	Sup	Seriously
+Vikavolt	Top o' the morning	This
+Crabrawler	Hi	Is
+Crabominable	Hello	The
+Oricorio	Good Morning	Final
+Cutiefly	Afternoon	Test
+Ribombee	Sup	Before
+Rockruff	Top o' the morning	I
+Lycanroc	Hi	Can
+Wishiwashi	Hello	Take
+Mareanie	Good Morning	This
+Toxapex	Afternoon	Seriously
+Mudbray	Sup	This
+Mudsdale	Top o' the morning	Is
+Dewpider	Hi	The
+Araquanid	Hello	Final
+Fomantis	Good Morning	Test
+Lurantis	Afternoon	Before
+Morelull	Sup	I
+Shiinotic	Top o' the morning	Can
+Salandit	Hi	Take
+Salazzle	Hello	This
+Stufful	Good Morning	Seriously
+Bewear	Afternoon	This
+Bounsweet	Sup	Is
+Steenee	Top o' the morning	The
+Tsareena	Hi	Final
+Comfey	Hello	Test
+Oranguru	Good Morning	Before
+Passimian	Afternoon	I
+Wimpod	Sup	Can
+Golisopod	Top o' the morning	Take
+Sandygast	Hi	This
+Palossand	Hello	Seriously
+Pyukumuku	Good Morning	This
+Type: Null	Afternoon	Is
+Silvally	Sup	The
+Minior	Top o' the morning	Final
+Komala	Hi	Test
+Turtonator	Hello	Before
+Togedemaru	Good Morning	I
+Mimikyu	Afternoon	Can
+Bruxish	Sup	Take
+Drampa	Top o' the morning	This
+Dhelmise	Hi	Seriously
+Jangmo-o	Hello	This
+Hakamo-o	Good Morning	Is
+Kommo-o	Afternoon	The
+Tapu Koko	Sup	Final
+Tapu Lele	Top o' the morning	Test
+Tapu Bulu	Hi	Before
+Tapu Fini	Hello	I
+Cosmog	Good Morning	Can
+Cosmoem	Afternoon	Take
+Solgaleo	Sup	This
+Lunala	Top o' the morning	Seriously
+Nihilego	Hi	This
+Buzzwole	Hello	Is
+Pheromosa	Good Morning	The
+Xurkitree	Afternoon	Final
+Celesteela	Sup	Test
+Kartana	Top o' the morning	Before
+Guzzlord	Hi	I
+Necrozma	Hello	Can
+Magearna	Good Morning	Take
+Marshadow	Afternoon	This
+Poipole	Sup	Seriously
+Naganadel	Top o' the morning	This
+Stakataka	Hi	Is
+Blacephalon	Hello	The
+Meltan	Good Morning	Final
+Melmetal	Yo	Test
