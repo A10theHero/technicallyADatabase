@@ -1,0 +1,891 @@
+Name	Egg Group 1	Egg Group 2	Ability 1	Ability 2	Hidden Ability	Male Ratio	Female Ratio
+Bulbasaur	Monster	Grass	Overgrow	Chlorophyll	N/A	88.14	11.86
+Ivysaur	Monster	Grass	Overgrow	Chlorophyll	N/A	88.14	11.86
+Venusaur	Monster	Grass	Overgrow	Chlorophyll	N/A	88.14	11.86
+Charmander	Monster	Dragon	Blaze	Solar Power	N/A	88.14	11.86
+Charmeleon	Monster	Dragon	Blaze	Solar Power	N/A	88.14	11.86
+Charizard	Monster	Dragon	Blaze	Solar Power	N/A	88.14	11.86
+Squirtle	Monster	Water 1	Torrent	Rain Dish	N/A	88.14	11.86
+Wartortle	Monster	Water 1	Torrent	Rain Dish	N/A	88.14	11.86
+Blastoise	Monster	Water 1	Torrent	Rain Dish	N/A	88.14	11.86
+Caterpie	Bug	N/A	Shield Dust	Run Away	N/A	50.2	49.8
+Metapod	Bug	N/A	Shed Skin	N/A	N/A	50.2	49.8
+Butterfree	Bug	N/A	Compoundeyes	Tinted Lens	N/A	50.2	49.8
+Weedle	Bug	N/A	Shield Dust	Run Away	N/A	50.2	49.8
+Kakuna	Bug	N/A	Shed Skin	N/A	N/A	50.2	49.8
+Beedrill	Bug	N/A	Swarm	Sniper	N/A	50.2	49.8
+Pidgey	Flying	N/A	Keen Eye	Tangled Feet	Big Pecks	50.2	49.8
+Pidgeotto	Flying	N/A	Keen Eye	Tangled Feet	Big Pecks	50.2	49.8
+Pidgeot	Flying	N/A	Keen Eye	Tangled Feet	Big Pecks	50.2	49.8
+Rattata	Field	N/A	Run Away	Guts	Hustle	50.2	49.8
+Raticate	Field	N/A	Run Away	Guts	Hustle	50.2	49.8
+Spearow	Flying	N/A	Keen Eye	Sniper	N/A	50.2	49.8
+Fearow	Flying	N/A	Keen Eye	Sniper	N/A	50.2	49.8
+Ekans	Field	Dragon	Intimidate	Shed Skin	Unnerve	50.2	49.8
+Arbok	Field	Dragon	Intimidate	Shed Skin	Unnerve	50.2	49.8
+Pikachu	Field	Fairy	Static	Lightning Rod	N/A	50.2	49.8
+Raichu	Field	Fairy	Static	Lightning Rod	N/A	50.2	49.8
+Sandshrew	Field	N/A	Sand Veil	Sand Rush	N/A	50.2	49.8
+Sandslash	Field	N/A	Sand Veil	Sand Rush	N/A	50.2	49.8
+Nidoran♀	Monster	Field	Poison Point	Rivalry	Hustle	0	100
+Nidorina	Undiscovered	N/A	Poison Point	Rivalry	Hustle	0	100
+Nidoqueen	Undiscovered	N/A	Poison Point	Rivalry	Sheer Force	0	100
+Nidoran♂	Monster	Field	Poison Point	Rivalry	Hustle	100	0
+Nidorino	Monster	Field	Poison Point	Rivalry	Hustle	100	0
+Nidoking	Monster	Field	Poison Point	Rivalry	Sheer Force	100	0
+Clefairy	Fairy	N/A	Cute Charm	Magic Guard	Friend Guard	24.9	75.1
+Clefable	Fairy	N/A	Cute Charm	Magic Guard	Unaware	24.9	75.1
+Vulpix	Field	N/A	Flash Fire	Drought	N/A	24.9	75.1
+Ninetales	Field	N/A	Flash Fire	Drought	N/A	24.9	75.1
+Jigglypuff	Fairy	N/A	Cute Charm	Competitive	Friend Guard	24.9	75.1
+Wigglytuff	Fairy	N/A	Cute Charm	Competitive	Frisk	24.9	75.1
+Zubat	Flying	N/A	Inner Focus	Infiltrator	N/A	50.2	49.8
+Golbat	Flying	N/A	Inner Focus	Infiltrator	N/A	50.2	49.8
+Oddish	Grass	N/A	Chlorophyll	Run Away	N/A	50.2	49.8
+Gloom	Grass	N/A	Chlorophyll	Stench	N/A	50.2	49.8
+Vileplume	Grass	N/A	Chlorophyll	Effect Spore	N/A	50.2	49.8
+Paras	Bug	Grass	Effect Spore	Dry Skin	Damp	50.2	49.8
+Parasect	Bug	Grass	Effect Spore	Dry Skin	Damp	50.2	49.8
+Venonat	Bug	N/A	Compoundeyes	Tinted Lens	Run Away	50.2	49.8
+Venomoth	Bug	N/A	Shield Dust	Tinted Lens	Wonder Skin	50.2	49.8
+Diglett	Field	N/A	Sand Veil	Arena Trap	Sand Force	50.2	49.8
+Dugtrio	Field	N/A	Sand Veil	Arena Trap	Sand Force	50.2	49.8
+Meowth	Field	N/A	Pickup	Technician	Unnerve	50.2	49.8
+Persian	Field	N/A	Limber	Technician	Unnerve	50.2	49.8
+Psyduck	Water 1	Field	Damp	Cloud Nine	Swift Swim	50.2	49.8
+Golduck	Water 1	Field	Damp	Cloud Nine	Swift Swim	50.2	49.8
+Mankey	Field	N/A	Vital Spirit	Anger Point	Defiant	50.2	49.8
+Primeape	Field	N/A	Vital Spirit	Anger Point	Defiant	50.2	49.8
+Growlithe	Field	N/A	Intimidate	Flash Fire	Justified	75.49	24.51
+Arcanine	Field	N/A	Intimidate	Flash Fire	Justified	75.49	24.51
+Poliwag	Water 1	N/A	Water Absorb	Damp	Swift Swim	50.2	49.8
+Poliwhirl	Water 1	N/A	Water Absorb	Damp	Swift Swim	50.2	49.8
+Poliwrath	Water 1	N/A	Water Absorb	Damp	Swift Swim	50.2	49.8
+Abra	Human-Like	N/A	Synchronize	Inner Focus	Magic Guard	75.49	24.51
+Kadabra	Human-Like	N/A	Synchronize	Inner Focus	Magic Guard	75.49	24.51
+Alakazam	Human-Like	N/A	Synchronize	Inner Focus	Magic Guard	75.49	24.51
+Machop	Human-Like	N/A	Guts	No Guard	Steadfast	75.49	24.51
+Machoke	Human-Like	N/A	Guts	No Guard	Steadfast	75.49	24.51
+Machamp	Human-Like	N/A	Guts	No Guard	Steadfast	75.49	24.51
+Bellsprout	Grass	N/A	Chlorophyll	Gluttony	N/A	50.2	49.8
+Weepinbell	Grass	N/A	Chlorophyll	Gluttony	N/A	50.2	49.8
+Victreebel	Grass	N/A	Chlorophyll	Gluttony	N/A	50.2	49.8
+Tentacool	Water 3	N/A	Clear Body	Liquid Ooze	Rain Dish	50.2	49.8
+Tentacruel	Water 3	N/A	Clear Body	Liquid Ooze	Rain Dish	50.2	49.8
+Geodude	Mineral	N/A	Rock Head	Sturdy	Sand Veil	50.2	49.8
+Graveler	Mineral	N/A	Rock Head	Sturdy	Sand Veil	50.2	49.8
+Golem	Mineral	N/A	Rock Head	Sturdy	Sand Veil	50.2	49.8
+Ponyta	Field	N/A	Run Away	Flash Fire	Flame Body	50.2	49.8
+Rapidash	Field	N/A	Run Away	Flash Fire	Flame Body	50.2	49.8
+Slowpoke	Monster	Water 1	Oblivious	Own Tempo	Regenerator	50.2	49.8
+Slowbro	Monster	Water 1	Oblivious	Own Tempo	Regenerator	50.2	49.8
+Magnemite	Mineral	N/A	Magnet Pull	Sturdy	Analytic	0	0
+Magneton	Mineral	N/A	Magnet Pull	Sturdy	Analytic	0	0
+Farfetch'd	Flying	Field	Keen Eye	Inner Focus	Defiant	50.2	49.8
+Doduo	Flying	N/A	Run Away	Early Bird	Tangled Feet	50.2	49.8
+Dodrio	Flying	N/A	Run Away	Early Bird	Tangled Feet	50.2	49.8
+Seel	Water 1	Field	Thick Fat	Hydration	Ice Body	50.2	49.8
+Dewgong	Water 1	Field	Thick Fat	Hydration	Ice Body	50.2	49.8
+Grimer	Amorphous	N/A	Stench	Sticky Hold	Poison Touch	50.2	49.8
+Muk	Amorphous	N/A	Stench	Sticky Hold	Poison Touch	50.2	49.8
+Shellder	Water 3	N/A	Shell Armor	Skill Link	Overcoat	50.2	49.8
+Cloyster	Water 3	N/A	Shell Armor	Skill Link	Overcoat	50.2	49.8
+Gastly	Amorphous	N/A	Levitate	N/A	N/A	50.2	49.8
+Haunter	Amorphous	N/A	Levitate	N/A	N/A	50.2	49.8
+Gengar	Amorphous	N/A	Cursed Body	N/A	N/A	50.2	49.8
+Onix	Mineral	N/A	Rock Head	Sturdy	Weak Armor	50.2	49.8
+Drowzee	Human-Like	N/A	Insomnia	Forewarn	Inner Focus	50.2	49.8
+Hypno	Human-Like	N/A	Insomnia	Forewarn	Inner Focus	50.2	49.8
+Krabby	Water 3	N/A	Hyper Cutter	Shell Armor	Sheer Force	50.2	49.8
+Kingler	Water 3	N/A	Hyper Cutter	Shell Armor	Sheer Force	50.2	49.8
+Voltorb	Mineral	N/A	Soundproof	Static	Aftermath	0	0
+Electrode	Mineral	N/A	Soundproof	Static	Aftermath	0	0
+Exeggcute	Grass	N/A	Chlorophyll	Harvest	N/A	50.2	49.8
+Exeggutor	Grass	N/A	Chlorophyll	Harvest	N/A	50.2	49.8
+Cubone	Monster	N/A	Rock Head	Lightning Rod	Battle Armor	50.2	49.8
+Marowak	Monster	N/A	Rock Head	Lightning Rod	Battle Armor	50.2	49.8
+Hitmonlee	Human-Like	N/A	Limber	Reckless	Unburden	100	0
+Hitmonchan	Human-Like	N/A	Keen Eye	Iron Fist	Inner Focus	100	0
+Lickitung	Monster	N/A	Own Tempo	Oblivious	Cloud Nine	50.2	49.8
+Koffing	Amorphous	N/A	Levitate	Neutralizing Gas	Stench	50.2	49.8
+Weezing	Amorphous	N/A	Levitate	Neutralizing Gas	Stench	50.2	49.8
+Rhyhorn	Monster	Field	Lightning Rod	Rock Head	Reckless	50.2	49.8
+Rhydon	Monster	Field	Lightning Rod	Rock Head	Reckless	50.2	49.8
+Chansey	Fairy	N/A	Natural Cure	Serene Grace	Healer	0	100
+Tangela	Grass	N/A	Chlorophyll	Leaf Guard	Regenerator	50.2	49.8
+Kangaskhan	Monster	N/A	Early Bird	Scrappy	Inner Focus	0	100
+Horsea	Water 1	Dragon	Swift Swim	Sniper	Damp	50.2	49.8
+Seadra	Water 1	Dragon	Poison Point	Sniper	Damp	50.2	49.8
+Goldeen	Water 2	N/A	Swift Swim	Water Veil	Lightning Rod	50.2	49.8
+Seaking	Water 2	N/A	Swift Swim	Water Veil	Lightning Rod	50.2	49.8
+Staryu	Water 3	N/A	Illuminate	Natural Cure	Analytic	0	0
+Starmie	Water 3	N/A	Illuminate	Natural Cure	Analytic	0	0
+Mr. Mime	Human-Like	N/A	Soundproof	Filter	Technician	50.2	49.8
+Scyther	Bug	N/A	Swarm	Technician	Steadfast	50.2	49.8
+Jynx	Human-Like	N/A	Oblivious	Forewarn	Dry Skin	0	100
+Electabuzz	Human-Like	N/A	Static	Vital Spirit	N/A	75.49	24.51
+Magmar	Human-Like	N/A	Flame Body	Vital Spirit	N/A	75.49	24.51
+Pinsir	Bug	N/A	Hyper Cutter	Mold Breaker	Moxie	50.2	49.8
+Tauros	Field	N/A	Intimidate	Anger Point	Sheer Force	100	0
+Magikarp	Water 2	Dragon	Swift Swim	Rattled	N/A	50.2	49.8
+Gyarados	Water 2	Dragon	Intimidate	Moxie	N/A	50.2	49.8
+Lapras	Monster	Water 1	Water Absorb	Shell Armor	Hydration	50.2	49.8
+Ditto	Ditto	N/A	Limber	Imposter	N/A	0	0
+Eevee	Field	N/A	Run Away	Adaptability	Anticipation	88.14	11.86
+Vaporeon	Field	N/A	Water Absorb	Hydration	N/A	88.14	11.86
+Jolteon	Field	N/A	Volt Absorb	Quick Feet	N/A	88.14	11.86
+Flareon	Field	N/A	Flash Fire	Guts	N/A	88.14	11.86
+Porygon	Mineral	N/A	Trace	Download	Analytic	0	0
+Omanyte	Water 1	Water 3	Swift Swim	Shell Armor	Weak Armor	88.14	11.86
+Omastar	Water 1	Water 3	Swift Swim	Shell Armor	Weak Armor	88.14	11.86
+Kabuto	Water 1	Water 3	Swift Swim	Battle Armor	Weak Armor	88.14	11.86
+Kabutops	Water 1	Water 3	Swift Swim	Battle Armor	Weak Armor	88.14	11.86
+Aerodactyl	Flying	N/A	Rock Head	Pressure	Unnerve	88.14	11.86
+Snorlax	Monster	N/A	Immunity	Thick Fat	Gluttony	88.14	11.86
+Articuno	Undiscovered	N/A	Pressure	Snow Cloak	N/A	0	0
+Zapdos	Undiscovered	N/A	Pressure	Static	N/A	0	0
+Moltres	Undiscovered	N/A	Pressure	Flame Body	N/A	0	0
+Dratini	Water 1	Dragon	Shed Skin	Marvel Scale	N/A	50.2	49.8
+Dragonair	Water 1	Dragon	Shed Skin	Marvel Scale	N/A	50.2	49.8
+Dragonite	Water 1	Dragon	Inner Focus	Multiscale	N/A	50.2	49.8
+Mewtwo	Undiscovered	N/A	Pressure	Unnerve	N/A	0	0
+Mew	Undiscovered	N/A	Synchronize	N/A	N/A	0	0
+Chikorita	Monster	Grass	Overgrow	Leaf Guard	N/A	88.14	11.86
+Bayleef	Monster	Grass	Overgrow	Leaf Guard	N/A	88.14	11.86
+Meganium	Monster	Grass	Overgrow	Leaf Guard	N/A	88.14	11.86
+Cyndaquil	Field	N/A	Blaze	Flash Fire	N/A	88.14	11.86
+Quilava	Field	N/A	Blaze	Flash Fire	N/A	88.14	11.86
+Typhlosion	Field	N/A	Blaze	Flash Fire	N/A	88.14	11.86
+Totodile	Monster	Water 1	Torrent	Sheer Force	N/A	88.14	11.86
+Croconaw	Monster	Water 1	Torrent	Sheer Force	N/A	88.14	11.86
+Feraligatr	Monster	Water 1	Torrent	Sheer Force	N/A	88.14	11.86
+Sentret	Field	N/A	Run Away	Keen Eye	Frisk	50.2	49.8
+Furret	Field	N/A	Run Away	Keen Eye	Frisk	50.2	49.8
+Hoothoot	Flying	N/A	Insomnia	Keen Eye	Tinted Lens	50.2	49.8
+Noctowl	Flying	N/A	Insomnia	Keen Eye	Tinted Lens	50.2	49.8
+Ledyba	Bug	N/A	Swarm	Early Bird	Rattled	50.2	49.8
+Ledian	Bug	N/A	Swarm	Early Bird	Iron Fist	50.2	49.8
+Spinarak	Bug	N/A	Swarm	Insomnia	Sniper	50.2	49.8
+Ariados	Bug	N/A	Swarm	Insomnia	Sniper	50.2	49.8
+Crobat	Flying	N/A	Inner Focus	Infiltrator	N/A	50.2	49.8
+Chinchou	Water 2	N/A	Volt Absorb	Illuminate	Water Absorb	50.2	49.8
+Lanturn	Water 2	N/A	Volt Absorb	Illuminate	Water Absorb	50.2	49.8
+Pichu	Undiscovered	N/A	Static	Lightning Rod	N/A	50.2	49.8
+Cleffa	Undiscovered	N/A	Cute Charm	Magic Guard	Friend Guard	24.9	75.1
+Igglybuff	Undiscovered	N/A	Cute Charm	Competitive	Friend Guard	24.9	75.1
+Togepi	Undiscovered	N/A	Hustle	Serene Grace	Super Luck	88.14	11.86
+Togetic	Flying	Fairy	Hustle	Serene Grace	Super Luck	88.14	11.86
+Natu	Flying	N/A	Synchronize	Early Bird	Magic Bounce	50.2	49.8
+Xatu	Flying	N/A	Synchronize	Early Bird	Magic Bounce	50.2	49.8
+Mareep	Monster	Field	Static	Plus	N/A	50.2	49.8
+Flaaffy	Monster	Field	Static	Plus	N/A	50.2	49.8
+Ampharos	Monster	Field	Static	Plus	N/A	50.2	49.8
+Bellossom	Grass	N/A	Chlorophyll	Healer	N/A	50.2	49.8
+Marill	Water 1	Fairy	Thick Fat	Huge Power	Sap Sipper	50.2	49.8
+Azumarill	Water 1	Fairy	Thick Fat	Huge Power	Sap Sipper	50.2	49.8
+Sudowoodo	Mineral	N/A	Sturdy	Rock Head	Rattled	50.2	49.8
+Politoed	Water 1	N/A	Water Absorb	Damp	Drizzle	50.2	49.8
+Hoppip	Fairy	Grass	Chlorophyll	Leaf Guard	Infiltrator	50.2	49.8
+Skiploom	Fairy	Grass	Chlorophyll	Leaf Guard	Infiltrator	50.2	49.8
+Jumpluff	Fairy	Grass	Chlorophyll	Leaf Guard	Infiltrator	50.2	49.8
+Aipom	Field	N/A	Run Away	Pickup	Skill Link	50.2	49.8
+Sunkern	Grass	N/A	Chlorophyll	Solar Power	Early Bird	50.2	49.8
+Sunflora	Grass	N/A	Chlorophyll	Solar Power	Early Bird	50.2	49.8
+Yanma	Bug	N/A	Speed Boost	Compoundeyes	Frisk	50.2	49.8
+Wooper	Water 1	Field	Damp	Water Absorb	Unaware	50.2	49.8
+Quagsire	Water 1	Field	Damp	Water Absorb	Unaware	50.2	49.8
+Espeon	Field	N/A	Synchronize	Magic Bounce	N/A	88.14	11.86
+Umbreon	Field	N/A	Synchronize	Inner Focus	N/A	88.14	11.86
+Murkrow	Flying	N/A	Insomnia	Super Luck	Prankster	50.2	49.8
+Slowking	Monster	Water 1	Oblivious	Own Tempo	Regenerator	50.2	49.8
+Misdreavus	Amorphous	N/A	Levitate	N/A	N/A	50.2	49.8
+Unown	Undiscovered	N/A	Levitate	N/A	N/A	0	0
+Wobbuffet	Amorphous	N/A	Shadow Tag	Telepathy	N/A	50.2	49.8
+Girafarig	Field	N/A	Inner Focus	Early Bird	Sap Sipper	50.2	49.8
+Pineco	Bug	N/A	Sturdy	Overcoat	N/A	50.2	49.8
+Forretress	Bug	N/A	Sturdy	Overcoat	N/A	50.2	49.8
+Dunsparce	Field	N/A	Serene Grace	Run Away	Rattled	50.2	49.8
+Gligar	Bug	N/A	Hyper Cutter	Sand Veil	Immunity	50.2	49.8
+Steelix	Mineral	N/A	Rock Head	Sturdy	Sheer Force	50.2	49.8
+Snubbull	Field	Fairy	Intimidate	Run Away	Rattled	24.9	75.1
+Granbull	Field	Fairy	Intimidate	Quick Feet	Rattled	24.9	75.1
+Qwilfish	Water 2	N/A	Poison Point	Swift Swim	Intimidate	50.2	49.8
+Scizor	Bug	N/A	Swarm	Technician	Light Metal	50.2	49.8
+Shuckle	Bug	N/A	Sturdy	Gluttony	Contrary	50.2	49.8
+Heracross	Bug	N/A	Swarm	Guts	Moxie	50.2	49.8
+Sneasel	Field	N/A	Inner Focus	Keen Eye	Pickpocket	50.2	49.8
+Teddiursa	Field	N/A	Pickup	Quick Feet	Honey Gather	50.2	49.8
+Ursaring	Field	N/A	Guts	Quick Feet	Unnerve	50.2	49.8
+Slugma	Amorphous	N/A	Magma Armor	Flame Body	Weak Armor	50.2	49.8
+Magcargo	Amorphous	N/A	Magma Armor	Flame Body	Weak Armor	50.2	49.8
+Swinub	Field	N/A	Oblivious	Snow Cloak	Thick Fat	50.2	49.8
+Piloswine	Field	N/A	Oblivious	Snow Cloak	Thick Fat	50.2	49.8
+Corsola	Water 1	Water 3	Hustle	Natural Cure	Regenerator	24.9	75.1
+Remoraid	Water 1	Water 2	Hustle	Sniper	Moody	50.2	49.8
+Octillery	Water 1	Water 2	Suction Cups	Sniper	Moody	50.2	49.8
+Delibird	Water 1	Field	Vital Spirit	Hustle	Insomnia	50.2	49.8
+Mantine	Water 1	N/A	Swift Swim	Water Absorb	Water Veil	50.2	49.8
+Skarmory	Flying	N/A	Keen Eye	Sturdy	Weak Armor	50.2	49.8
+Houndour	Field	N/A	Early Bird	Flash Fire	Unnerve	50.2	49.8
+Houndoom	Field	N/A	Early Bird	Flash Fire	Unnerve	50.2	49.8
+Kingdra	Water 1	Dragon	Swift Swim	Sniper	Damp	50.2	49.8
+Phanpy	Field	N/A	Pickup	Sand Veil	N/A	50.2	49.8
+Donphan	Field	N/A	Sturdy	Sand Veil	N/A	50.2	49.8
+Porygon2	Mineral	N/A	Trace	Download	Analytic	0	0
+Stantler	Field	N/A	Intimidate	Frisk	Sap Sipper	50.2	49.8
+Smeargle	Field	N/A	Own Tempo	Technician	Moody	50.2	49.8
+Tyrogue	Undiscovered	N/A	Guts	Steadfast	Vital Spirit	100	0
+Hitmontop	Human-Like	N/A	Intimidate	Technician	Steadfast	100	0
+Smoochum	Undiscovered	N/A	Oblivious	Forewarn	Hydration	0	100
+Elekid	Undiscovered	N/A	Static	Vital Spirit	N/A	75.49	24.51
+Magby	Undiscovered	N/A	Flame Body	Vital Spirit	N/A	75.49	24.51
+Miltank	Field	N/A	Thick Fat	Scrappy	Sap Sipper	0	100
+Blissey	Fairy	N/A	Natural Cure	Serene Grace	Healer	0	100
+Raikou	Undiscovered	N/A	Pressure	Inner Focus	N/A	0	0
+Entei	Undiscovered	N/A	Pressure	Inner Focus	N/A	0	0
+Suicune	Undiscovered	N/A	Pressure	Inner Focus	N/A	0	0
+Larvitar	Monster	N/A	Guts	Sand Veil	N/A	50.2	49.8
+Pupitar	Monster	N/A	Shed Skin	N/A	N/A	50.2	49.8
+Tyranitar	Monster	N/A	Sand Stream	Unnerve	N/A	50.2	49.8
+Lugia	Undiscovered	N/A	Pressure	Multiscale	N/A	0	0
+Ho-Oh	Undiscovered	N/A	Pressure	Regenerator	N/A	0	0
+Celebi	Undiscovered	N/A	Natural Cure	N/A	N/A	0	0
+Treecko	Monster	Dragon	Overgrow	Unburden	N/A	88.14	11.86
+Grovyle	Monster	Dragon	Overgrow	Unburden	N/A	88.14	11.86
+Sceptile	Monster	Dragon	Overgrow	Unburden	N/A	88.14	11.86
+Torchic	Field	N/A	Blaze	Speed Boost	N/A	88.14	11.86
+Combusken	Field	N/A	Blaze	Speed Boost	N/A	88.14	11.86
+Blaziken	Field	N/A	Blaze	Speed Boost	N/A	88.14	11.86
+Mudkip	Monster	Water 1	Torrent	Damp	N/A	88.14	11.86
+Marshtomp	Monster	Water 1	Torrent	Damp	N/A	88.14	11.86
+Swampert	Monster	Water 1	Torrent	Damp	N/A	88.14	11.86
+Poochyena	Field	N/A	Run Away	Quick Feet	Rattled	50.2	49.8
+Mightyena	Field	N/A	Intimidate	Quick Feet	Moxie	50.2	49.8
+Zigzagoon	Field	N/A	Pickup	Gluttony	Quick Feet	50.2	49.8
+Linoone	Field	N/A	Pickup	Gluttony	Quick Feet	50.2	49.8
+Wurmple	Bug	N/A	Shield Dust	Run Away	N/A	50.2	49.8
+Silcoon	Bug	N/A	Shed Skin	N/A	N/A	50.2	49.8
+Beautifly	Bug	N/A	Swarm	Rivalry	N/A	50.2	49.8
+Cascoon	Bug	N/A	Shed Skin	N/A	N/A	50.2	49.8
+Dustox	Bug	N/A	Shield Dust	Compoundeyes	N/A	50.2	49.8
+Lotad	Water 1	Grass	Swift Swim	Rain Dish	Own Tempo	50.2	49.8
+Lombre	Water 1	Grass	Swift Swim	Rain Dish	Own Tempo	50.2	49.8
+Ludicolo	Water 1	Grass	Swift Swim	Rain Dish	Own Tempo	50.2	49.8
+Seedot	Field	Grass	Chlorophyll	Early Bird	Pickpocket	50.2	49.8
+Nuzleaf	Field	Grass	Chlorophyll	Early Bird	Pickpocket	50.2	49.8
+Shiftry	Field	Grass	Chlorophyll	Early Bird	Pickpocket	50.2	49.8
+Taillow	Flying	N/A	Guts	Scrappy	N/A	50.2	49.8
+Swellow	Flying	N/A	Guts	Scrappy	N/A	50.2	49.8
+Wingull	Water 1	Flying	Keen Eye	Hydration	Rain Dish	50.2	49.8
+Pelipper	Water 1	Flying	Keen Eye	Drizzle	Rain Dish	50.2	49.8
+Ralts	Human-Like*	Amorphous	Synchronize	Trace	Telepathy	50.2	49.8
+Kirlia	Human-Like*	Amorphous	Synchronize	Trace	Telepathy	50.2	49.8
+Gardevoir	Human-Like*	Amorphous	Synchronize	Trace	Telepathy	50.2	49.8
+Surskit	Water 1	Bug	Swift Swim	Rain Dish	N/A	50.2	49.8
+Masquerain	Water 1	Bug	Intimidate	Unnerve	N/A	50.2	49.8
+Shroomish	Fairy	Grass	Effect Spore	Poison Heal	Quick Feet	50.2	49.8
+Breloom	Fairy	Grass	Effect Spore	Poison Heal	Technician	50.2	49.8
+Slakoth	Field	N/A	Truant	N/A	N/A	50.2	49.8
+Vigoroth	Field	N/A	Vital Spirit	N/A	N/A	50.2	49.8
+Slaking	Field	N/A	Truant	N/A	N/A	50.2	49.8
+Nincada	Bug	N/A	Compoundeyes	Run Away	N/A	50.2	49.8
+Ninjask	Bug	N/A	Speed Boost	Infiltrator	N/A	50.2	49.8
+Shedinja	Mineral	N/A	Wonder Guard	N/A	N/A	0	0
+Whismur	Monster	Field	Soundproof	Rattled	N/A	50.2	49.8
+Loudred	Monster	Field	Soundproof	Scrappy	N/A	50.2	49.8
+Exploud	Monster	Field	Soundproof	Scrappy	N/A	50.2	49.8
+Makuhita	Human-Like	N/A	Thick Fat	Guts	Sheer Force	75.49	24.51
+Hariyama	Human-Like	N/A	Thick Fat	Guts	Sheer Force	75.49	24.51
+Azurill	Undiscovered	N/A	Thick Fat	Huge Power	Sap Sipper	24.9	75.1
+Nosepass	Mineral	N/A	Sturdy	Magnet Pull	Sand Force	50.2	49.8
+Skitty	Field	Fairy	Cute Charm	Normalize	Wonder Skin	24.9	75.1
+Delcatty	Field	Fairy	Cute Charm	Normalize	Wonder Skin	24.9	75.1
+Sableye	Human-Like	N/A	Keen Eye	Stall	Prankster	50.2	49.8
+Mawile	Field	Fairy	Hyper Cutter	Intimidate	Sheer Force	50.2	49.8
+Aron	Monster	N/A	Sturdy	Rock Head	Heavy Metal	50.2	49.8
+Lairon	Monster	N/A	Sturdy	Rock Head	Heavy Metal	50.2	49.8
+Aggron	Monster	N/A	Sturdy	Rock Head	Heavy Metal	50.2	49.8
+Meditite	Human-Like	N/A	Pure Power	Telepathy	N/A	50.2	49.8
+Medicham	Human-Like	N/A	Pure Power	Telepathy	N/A	50.2	49.8
+Electrike	Field	N/A	Static	Lightning Rod	Minus	50.2	49.8
+Manectric	Field	N/A	Static	Lightning Rod	Minus	50.2	49.8
+Plusle	Fairy	N/A	Plus	Lightning Rod	N/A	50.2	49.8
+Minun	Fairy	N/A	Minus	Volt Absorb	N/A	50.2	49.8
+Volbeat	Bug	Human-Like	Illuminate	Swarm	Prankster	100	0
+Illumise	Bug	Human-Like	Oblivious	Tinted Lens	Prankster	0	100
+Roselia	Fairy	Grass	Natural Cure	Poison Point	Leaf Guard	50.2	49.8
+Gulpin	Amorphous	N/A	Liquid Ooze	Sticky Hold	Gluttony	50.2	49.8
+Swalot	Amorphous	N/A	Liquid Ooze	Sticky Hold	Gluttony	50.2	49.8
+Carvanha	Water 2	N/A	Rough Skin	Speed Boost	N/A	50.2	49.8
+Sharpedo	Water 2	N/A	Rough Skin	Speed Boost	N/A	50.2	49.8
+Wailmer	Field	Water 2	Water Veil	Oblivious	Pressure	50.2	49.8
+Wailord	Field	Water 2	Water Veil	Oblivious	Pressure	50.2	49.8
+Numel	Field	N/A	Oblivious	Simple	Own Tempo	50.2	49.8
+Camerupt	Field	N/A	Magma Armor	Solid Rock	Anger Point	50.2	49.8
+Torkoal	Field	N/A	White Smoke	Drought	Shell Armor	50.2	49.8
+Spoink	Field	N/A	Thick Fat	Own Tempo	Gluttony	50.2	49.8
+Grumpig	Field	N/A	Thick Fat	Own Tempo	Gluttony	50.2	49.8
+Spinda	Field	Human-Like	Own Tempo	Tangled Feet	Contrary	50.2	49.8
+Trapinch	Bug	Dragon*	Hyper Cutter	Arena Trap	Sheer Force	50.2	49.8
+Vibrava	Bug	Dragon*	Levitate	N/A	N/A	50.2	49.8
+Flygon	Bug	Dragon*	Levitate	N/A	N/A	50.2	49.8
+Cacnea	Grass	Human-Like	Sand Veil	Water Absorb	N/A	50.2	49.8
+Cacturne	Grass	Human-Like	Sand Veil	Water Absorb	N/A	50.2	49.8
+Swablu	Flying	Dragon	Natural Cure	Cloud Nine	N/A	50.2	49.8
+Altaria	Flying	Dragon	Natural Cure	Cloud Nine	N/A	50.2	49.8
+Zangoose	Field	N/A	Immunity	Toxic Boost	N/A	50.2	49.8
+Seviper	Field	Dragon	Shed Skin	Infiltrator	N/A	50.2	49.8
+Lunatone	Mineral	N/A	Levitate	N/A	N/A	0	0
+Solrock	Mineral	N/A	Levitate	N/A	N/A	0	0
+Barboach	Water 2	N/A	Oblivious	Anticipation	Hydration	50.2	49.8
+Whiscash	Water 2	N/A	Oblivious	Anticipation	Hydration	50.2	49.8
+Corphish	Water 1	Water 3	Hyper Cutter	Shell Armor	Adaptability	50.2	49.8
+Crawdaunt	Water 1	Water 3	Hyper Cutter	Shell Armor	Adaptability	50.2	49.8
+Baltoy	Mineral	N/A	Levitate	N/A	N/A	0	0
+Claydol	Mineral	N/A	Levitate	N/A	N/A	0	0
+Lileep	Water 3	N/A	Suction Cups	Storm Drain	N/A	88.14	11.86
+Cradily	Water 3	N/A	Suction Cups	Storm Drain	N/A	88.14	11.86
+Anorith	Water 3	N/A	Battle Armor	Swift Swim	N/A	88.14	11.86
+Armaldo	Water 3	N/A	Battle Armor	Swift Swim	N/A	88.14	11.86
+Feebas	Water 1	Dragon	Swift Swim	Oblivious	Adaptability	50.2	49.8
+Milotic	Water 1	Dragon	Marvel Scale	Competitive	Cute Charm	50.2	49.8
+Castform	Fairy	Amorphous	Forecast	N/A	N/A	50.2	49.8
+Kecleon	Field	N/A	Color Change	Protean	N/A	50.2	49.8
+Shuppet	Amorphous	N/A	Insomnia	Frisk	Cursed Body	50.2	49.8
+Banette	Amorphous	N/A	Insomnia	Frisk	Cursed Body	50.2	49.8
+Duskull	Amorphous	N/A	Levitate	Frisk	N/A	50.2	49.8
+Dusclops	Amorphous	N/A	Pressure	Frisk	N/A	50.2	49.8
+Tropius	Monster	Grass	Chlorophyll	Solar Power	Harvest	50.2	49.8
+Chimecho	Amorphous	N/A	Levitate	N/A	N/A	50.2	49.8
+Absol	Field	N/A	Pressure	Super Luck	Justified	50.2	49.8
+Wynaut	Undiscovered	N/A	Shadow Tag	Telepathy	N/A	50.2	49.8
+Snorunt	Fairy	Mineral	Inner Focus	Ice Body	Moody	50.2	49.8
+Glalie	Fairy	Mineral	Inner Focus	Ice Body	Moody	50.2	49.8
+Spheal	Water 1	Field	Thick Fat	Ice Body	Oblivious	50.2	49.8
+Sealeo	Water 1	Field	Thick Fat	Ice Body	Oblivious	50.2	49.8
+Walrein	Water 1	Field	Thick Fat	Ice Body	Oblivious	50.2	49.8
+Clamperl	Water 1	N/A	Shell Armor	Rattled	N/A	50.2	49.8
+Huntail	Water 1	N/A	Swift Swim	Water Veil	N/A	50.2	49.8
+Gorebyss	Water 1	N/A	Swift Swim	Hydration	N/A	50.2	49.8
+Relicanth	Water 1	Water 2	Swift Swim	Rock Head	Sturdy	88.14	11.86
+Luvdisc	Water 2	N/A	Swift Swim	Hydration	N/A	24.9	75.1
+Bagon	Dragon	N/A	Rock Head	Sheer Force	N/A	50.2	49.8
+Shelgon	Dragon	N/A	Rock Head	Overcoat	N/A	50.2	49.8
+Salamence	Dragon	N/A	Intimidate	Moxie	N/A	50.2	49.8
+Beldum	Mineral	N/A	Clear Body	Light Metal	N/A	0	0
+Metang	Mineral	N/A	Clear Body	Light Metal	N/A	0	0
+Metagross	Mineral	N/A	Clear Body	Light Metal	N/A	0	0
+Regirock	Undiscovered	N/A	Clear Body	Sturdy	N/A	0	0
+Regice	Undiscovered	N/A	Clear Body	Ice Body	N/A	0	0
+Registeel	Undiscovered	N/A	Clear Body	Light Metal	N/A	0	0
+Latias	Undiscovered	N/A	Levitate	N/A	N/A	0	100
+Latios	Undiscovered	N/A	Levitate	N/A	N/A	100	0
+Kyogre	Undiscovered	N/A	Drizzle	N/A	N/A	0	0
+Groudon	Undiscovered	N/A	Drought	N/A	N/A	0	0
+Rayquaza	Undiscovered	N/A	Air Lock	N/A	N/A	0	0
+Jirachi	Undiscovered	N/A	Serene Grace	N/A	N/A	0	0
+Deoxys	Undiscovered	N/A	Pressure	N/A	N/A	0	0
+Turtwig	Monster	Grass	Overgrow	Shell Armor	N/A	88.14	11.86
+Grotle	Monster	Grass	Overgrow	Shell Armor	N/A	88.14	11.86
+Torterra	Monster	Grass	Overgrow	Shell Armor	N/A	88.14	11.86
+Chimchar	Field	Human-Like	Blaze	Iron Fist	N/A	88.14	11.86
+Monferno	Field	Human-Like	Blaze	Iron Fist	N/A	88.14	11.86
+Infernape	Field	Human-Like	Blaze	Iron Fist	N/A	88.14	11.86
+Piplup	Water 1	Field	Torrent	Defiant	N/A	88.14	11.86
+Prinplup	Water 1	Field	Torrent	Defiant	N/A	88.14	11.86
+Empoleon	Water 1	Field	Torrent	Defiant	N/A	88.14	11.86
+Starly	Flying	N/A	Keen Eye	Reckless	N/A	50.2	49.8
+Staravia	Flying	N/A	Intimidate	Reckless	N/A	50.2	49.8
+Staraptor	Flying	N/A	Intimidate	Reckless	N/A	50.2	49.8
+Bidoof	Water 1	Field	Simple	Unaware	Moody	50.2	49.8
+Bibarel	Water 1	Field	Simple	Unaware	Moody	50.2	49.8
+Kricketot	Bug	N/A	Shed Skin	Run Away	N/A	50.2	49.8
+Kricketune	Bug	N/A	Swarm	Technician	N/A	50.2	49.8
+Shinx	Field	N/A	Rivalry	Intimidate	Guts	50.2	49.8
+Luxio	Field	N/A	Rivalry	Intimidate	Guts	50.2	49.8
+Luxray	Field	N/A	Rivalry	Intimidate	Guts	50.2	49.8
+Budew	Undiscovered	N/A	Natural Cure	Poison Point	Leaf Guard	50.2	49.8
+Roserade	Fairy	Grass	Natural Cure	Poison Point	Technician	50.2	49.8
+Cranidos	Monster	N/A	Mold Breaker	Sheer Force	N/A	88.14	11.86
+Rampardos	Monster	N/A	Mold Breaker	Sheer Force	N/A	88.14	11.86
+Shieldon	Monster	N/A	Sturdy	Soundproof	N/A	88.14	11.86
+Bastiodon	Monster	N/A	Sturdy	Soundproof	N/A	88.14	11.86
+Burmy	Bug	N/A	Shed Skin	Overcoat	N/A	50.2	49.8
+Wormadam	Bug	N/A	Anticipation	Overcoat	N/A	0	100
+Mothim	Bug	N/A	Swarm	Tinted Lens	N/A	100	0
+Combee	Bug	N/A	Honey Gather	Hustle	N/A	88.14	11.86
+Vespiquen	Bug	N/A	Pressure	Unnerve	N/A	0	100
+Pachirisu	Field	Fairy	Run Away	Pickup	Volt Absorb	50.2	49.8
+Buizel	Water 1	Field	Swift Swim	Water Veil	N/A	50.2	49.8
+Floatzel	Water 1	Field	Swift Swim	Water Veil	N/A	50.2	49.8
+Cherubi	Fairy	Grass	Chlorophyll	N/A	N/A	50.2	49.8
+Cherrim	Fairy	Grass	Flower Gift	N/A	N/A	50.2	49.8
+Shellos	Water 1	Amorphous	Sticky Hold	Storm Drain	Sand Force	50.2	49.8
+Gastrodon	Water 1	Amorphous	Sticky Hold	Storm Drain	Sand Force	50.2	49.8
+Ambipom	Field	N/A	Technician	Pickup	Skill Link	50.2	49.8
+Drifloon	Amorphous	N/A	Aftermath	Unburden	Flare Boost	50.2	49.8
+Drifblim	Amorphous	N/A	Aftermath	Unburden	Flare Boost	50.2	49.8
+Buneary	Field	Human-Like	Run Away	Klutz	Limber	50.2	49.8
+Lopunny	Field	Human-Like	Cute Charm	Klutz	Limber	50.2	49.8
+Mismagius	Amorphous	N/A	Levitate	N/A	N/A	50.2	49.8
+Honchkrow	Flying	N/A	Insomnia	Super Luck	Moxie	50.2	49.8
+Glameow	Field	N/A	Limber	Own Tempo	Keen Eye	24.9	75.1
+Purugly	Field	N/A	Thick Fat	Own Tempo	Defiant	24.9	75.1
+Chingling	Undiscovered	N/A	Levitate	N/A	N/A	50.2	49.8
+Stunky	Field	N/A	Stench	Aftermath	Keen Eye	50.2	49.8
+Skuntank	Field	N/A	Stench	Aftermath	Keen Eye	50.2	49.8
+Bronzor	Mineral	N/A	Levitate	Heatproof	Heavy Metal	0	0
+Bronzong	Mineral	N/A	Levitate	Heatproof	Heavy Metal	0	0
+Bonsly	Undiscovered	N/A	Sturdy	Rock Head	Rattled	50.2	49.8
+Mime Jr.	Undiscovered	N/A	Soundproof	Filter	Technician	50.2	49.8
+Happiny	Undiscovered	N/A	Natural Cure	Serene Grace	Friend Guard	0	100
+Chatot	Flying	N/A	Keen Eye	Tangled Feet	Big Pecks	50.2	49.8
+Spiritomb	Amorphous	N/A	Pressure	Infiltrator	N/A	50.2	49.8
+Gible	Monster	Dragon	Sand Veil	Rough Skin	N/A	50.2	49.8
+Gabite	Monster	Dragon	Sand Veil	Rough Skin	N/A	50.2	49.8
+Garchomp	Monster	Dragon	Sand Veil	Rough Skin	N/A	50.2	49.8
+Munchlax	Undiscovered	N/A	Pickup	Thick Fat	Gluttony	88.14	11.86
+Riolu	Undiscovered	N/A	Steadfast	Inner Focus	Prankster	88.14	11.86
+Lucario	Field	Human-Like	Steadfast	Inner Focus	Justified	88.14	11.86
+Hippopotas	Field	N/A	Sand Stream	Sand Force	N/A	50.2	49.8
+Hippowdon	Field	N/A	Sand Stream	Sand Force	N/A	50.2	49.8
+Skorupi	Bug	Water 3	Battle Armor	Sniper	Keen Eye	50.2	49.8
+Drapion	Bug	Water 3	Battle Armor	Sniper	Keen Eye	50.2	49.8
+Croagunk	Human-Like	N/A	Anticipation	Dry Skin	Poison Touch	50.2	49.8
+Toxicroak	Human-Like	N/A	Anticipation	Dry Skin	Poison Touch	50.2	49.8
+Carnivine	Grass	N/A	Levitate	N/A	N/A	50.2	49.8
+Finneon	Water 2	N/A	Swift Swim	Storm Drain	Water Veil	50.2	49.8
+Lumineon	Water 2	N/A	Swift Swim	Storm Drain	Water Veil	50.2	49.8
+Mantyke	Undiscovered	N/A	Swift Swim	Water Absorb	Water Veil	50.2	49.8
+Snover	Monster	Grass	Snow Warning	Soundproof	N/A	50.2	49.8
+Abomasnow	Monster	Grass	Snow Warning	Soundproof	N/A	50.2	49.8
+Weavile	Field	N/A	Pressure	Pickpocket	N/A	50.2	49.8
+Magnezone	Mineral	N/A	Magnet Pull	Sturdy	Analytic	0	0
+Lickilicky	Monster	N/A	Own Tempo	Oblivious	Cloud Nine	50.2	49.8
+Rhyperior	Monster	Field	Lightning Rod	Solid Rock	Reckless	50.2	49.8
+Tangrowth	Grass	N/A	Chlorophyll	Leaf Guard	Regenerator	50.2	49.8
+Electivire	Human-Like	N/A	Motor Drive	Vital Spirit	N/A	75.49	24.51
+Magmortar	Human-Like	N/A	Flame Body	Vital Spirit	N/A	75.49	24.51
+Togekiss	Flying	Fairy	Hustle	Serene Grace	Super Luck	88.14	11.86
+Yanmega	Bug	N/A	Speed Boost	Tinted Lens	Frisk	50.2	49.8
+Leafeon	Field	N/A	Leaf Guard	Chlorophyll	N/A	88.14	11.86
+Glaceon	Field	N/A	Snow Cloak	Ice Body	N/A	88.14	11.86
+Gliscor	Bug	N/A	Hyper Cutter	Sand Veil	Poison Heal	50.2	49.8
+Mamoswine	Field	N/A	Oblivious	Snow Cloak	Thick Fat	50.2	49.8
+Porygon-Z	Mineral	N/A	Adaptability	Download	Analytic	0	0
+Gallade	Human-Like*	Amorphous	Steadfast	Justified	N/A	100	0
+Probopass	Mineral	N/A	Sturdy	Magnet Pull	Sand Force	50.2	49.8
+Dusknoir	Amorphous	N/A	Pressure	Frisk	N/A	50.2	49.8
+Froslass	Fairy	Mineral	Snow Cloak	Cursed Body	N/A	0	100
+Rotom	Amorphous	N/A	Levitate	N/A	N/A	0	0
+Uxie	Undiscovered	N/A	Levitate	N/A	N/A	0	0
+Mesprit	Undiscovered	N/A	Levitate	N/A	N/A	0	0
+Azelf	Undiscovered	N/A	Levitate	N/A	N/A	0	0
+Dialga	Undiscovered	N/A	Pressure	Telepathy	N/A	0	0
+Palkia	Undiscovered	N/A	Pressure	Telepathy	N/A	0	0
+Heatran	Undiscovered	N/A	Flash Fire	Flame Body	N/A	50.2	49.8
+Regigigas	Undiscovered	N/A	Slow Start	N/A	N/A	0	0
+Giratina	Undiscovered	N/A	Pressure	Telepathy	N/A	0	0
+Cresselia	Undiscovered	N/A	Levitate	N/A	N/A	0	100
+Phione	Water 1	Fairy	Hydration	N/A	N/A	0	0
+Manaphy	Water 1	Fairy	Hydration	N/A	N/A	0	0
+Darkrai	Undiscovered	N/A	Bad Dreams	N/A	N/A	0	0
+Shaymin	Undiscovered	N/A	Natural Cure	N/A	N/A	0	0
+Arceus	Undiscovered	N/A	Multitype	N/A	N/A	0	0
+Victini	Undiscovered	N/A	Victory Star	N/A	N/A	0	0
+Snivy	Field	Grass	Overgrow	Contrary	N/A	88.14	11.86
+Servine	Field	Grass	Overgrow	Contrary	N/A	88.14	11.86
+Serperior	Field	Grass	Overgrow	Contrary	N/A	88.14	11.86
+Tepig	Field	N/A	Blaze	Thick Fat	N/A	88.14	11.86
+Pignite	Field	N/A	Blaze	Thick Fat	N/A	88.14	11.86
+Emboar	Field	N/A	Blaze	Reckless	N/A	88.14	11.86
+Oshawott	Field	N/A	Torrent	Shell Armor	N/A	88.14	11.86
+Dewott	Field	N/A	Torrent	Shell Armor	N/A	88.14	11.86
+Samurott	Field	N/A	Torrent	Shell Armor	N/A	88.14	11.86
+Patrat	Field	N/A	Run Away	Keen Eye	Analytic	50.2	49.8
+Watchog	Field	N/A	Illuminate	Keen Eye	Analytic	50.2	49.8
+Lillipup	Field	N/A	Vital Spirit	Pickup	Run Away	50.2	49.8
+Herdier	Field	N/A	Intimidate	Sand Rush	Scrappy	50.2	49.8
+Stoutland	Field	N/A	Intimidate	Sand Rush	Scrappy	50.2	49.8
+Purrloin	Field	N/A	Limber	Unburden	Prankster	50.2	49.8
+Liepard	Field	N/A	Limber	Unburden	Prankster	50.2	49.8
+Pansage	Field	N/A	Gluttony	Overgrow	N/A	88.14	11.86
+Simisage	Field	N/A	Gluttony	Overgrow	N/A	88.14	11.86
+Pansear	Field	N/A	Gluttony	Blaze	N/A	88.14	11.86
+Simisear	Field	N/A	Gluttony	Blaze	N/A	88.14	11.86
+Panpour	Field	N/A	Gluttony	Torrent	N/A	88.14	11.86
+Simipour	Field	N/A	Gluttony	Torrent	N/A	88.14	11.86
+Munna	Field	N/A	Forewarn	Synchronize	Telepathy	50.2	49.8
+Musharna	Field	N/A	Forewarn	Synchronize	Telepathy	50.2	49.8
+Pidove	Flying	N/A	Big Pecks	Super Luck	Rivalry	50.2	49.8
+Tranquill	Flying	N/A	Big Pecks	Super Luck	Rivalry	50.2	49.8
+Unfezant	Flying	N/A	Big Pecks	Super Luck	Rivalry	50.2	49.8
+Blitzle	Field	N/A	Lightning Rod	Motor Drive	Sap Sipper	50.2	49.8
+Zebstrika	Field	N/A	Lightning Rod	Motor Drive	Sap Sipper	50.2	49.8
+Roggenrola	Mineral	N/A	Sturdy	Weak Armor	Sand Force	50.2	49.8
+Boldore	Mineral	N/A	Sturdy	Weak Armor	Sand Force	50.2	49.8
+Gigalith	Mineral	N/A	Sturdy	Sand Stream	Sand Force	50.2	49.8
+Woobat	Field	Flying	Unaware	Klutz	Simple	50.2	49.8
+Swoobat	Field	Flying	Unaware	Klutz	Simple	50.2	49.8
+Drilbur	Field	N/A	Sand Rush	Sand Force	Mold Breaker	50.2	49.8
+Excadrill	Field	N/A	Sand Rush	Sand Force	Mold Breaker	50.2	49.8
+Audino	Fairy	N/A	Healer	Regenerator	Klutz	50.2	49.8
+Timburr	Human-Like	N/A	Guts	Sheer Force	Iron Fist	75.49	24.51
+Gurdurr	Human-Like	N/A	Guts	Sheer Force	Iron Fist	75.49	24.51
+Conkeldurr	Human-Like	N/A	Guts	Sheer Force	Iron Fist	75.49	24.51
+Tympole	Water 1	N/A	Swift Swim	Hydration	Water Absorb	50.2	49.8
+Palpitoad	Water 1	N/A	Swift Swim	Hydration	Water Absorb	50.2	49.8
+Seismitoad	Water 1	N/A	Swift Swim	Poison Touch	Water Absorb	50.2	49.8
+Throh	Human-Like	N/A	Guts	Inner Focus	Mold Breaker	100	0
+Sawk	Human-Like	N/A	Sturdy	Inner Focus	Mold Breaker	100	0
+Sewaddle	Bug	N/A	Swarm	Chlorophyll	Overcoat	50.2	49.8
+Swadloon	Bug	N/A	Leaf Guard	Chlorophyll	Overcoat	50.2	49.8
+Leavanny	Bug	N/A	Swarm	Chlorophyll	Overcoat	50.2	49.8
+Venipede	Bug	N/A	Poison Point	Swarm	Speed Boost	50.2	49.8
+Whirlipede	Bug	N/A	Poison Point	Swarm	Speed Boost	50.2	49.8
+Scolipede	Bug	N/A	Poison Point	Swarm	Speed Boost	50.2	49.8
+Cottonee	Grass	Fairy	Prankster	Infiltrator	Chlorophyll	50.2	49.8
+Whimsicott	Grass	Fairy	Prankster	Infiltrator	Chlorophyll	50.2	49.8
+Petilil	Grass	N/A	Chlorophyll	Own Tempo	Leaf Guard	0	100
+Lilligant	Grass	N/A	Chlorophyll	Own Tempo	Leaf Guard	0	100
+Basculin	Water 2	N/A	Reckless	Adaptability	Mold Breaker	50.2	49.8
+Sandile	Field	N/A	Intimidate	Moxie	Anger Point	50.2	49.8
+Krokorok	Field	N/A	Intimidate	Moxie	Anger Point	50.2	49.8
+Krookodile	Field	N/A	Intimidate	Moxie	Anger Point	50.2	49.8
+Darumaka	Field	N/A	Hustle	Inner Focus	N/A	50.2	49.8
+Darmanitan	Field	N/A	Sheer Force	Zen Mode	N/A	50.2	49.8
+Maractus	Grass	N/A	Water Absorb	Chlorophyll	Storm Drain	50.2	49.8
+Dwebble	Bug	Mineral	Sturdy	Shell Armor	Weak Armor	50.2	49.8
+Crustle	Bug	Mineral	Sturdy	Shell Armor	Weak Armor	50.2	49.8
+Scraggy	Field	Dragon	Shed Skin	Moxie	Intimidate	50.2	49.8
+Scrafty	Field	Dragon	Shed Skin	Moxie	Intimidate	50.2	49.8
+Sigilyph	Flying	N/A	Wonder Skin	Magic Guard	Tinted Lens	50.2	49.8
+Yamask	Mineral	Amorphous	Mummy	N/A	N/A	50.2	49.8
+Cofagrigus	Mineral	Amorphous	Mummy	N/A	N/A	50.2	49.8
+Tirtouga	Water 1	Water 3	Solid Rock	Sturdy	Swift Swim	88.14	11.86
+Carracosta	Water 1	Water 3	Solid Rock	Sturdy	Swift Swim	88.14	11.86
+Archen	Flying	Water 3	Defeatist	N/A	N/A	88.14	11.86
+Archeops	Flying	Water 3	Defeatist	N/A	N/A	88.14	11.86
+Trubbish	Mineral	N/A	Stench	Sticky Hold	Aftermath	50.2	49.8
+Garbodor	Mineral	N/A	Stench	Weak Armor	Aftermath	50.2	49.8
+Zorua	Field	N/A	Illusion	N/A	N/A	88.14	11.86
+Zoroark	Field	N/A	Illusion	N/A	N/A	88.14	11.86
+Minccino	Field	N/A	Cute Charm	Technician	Skill Link	24.9	75.1
+Cinccino	Field	N/A	Cute Charm	Technician	Skill Link	24.9	75.1
+Gothita	Human-Like	N/A	Frisk	Competitive	Shadow Tag	24.9	75.1
+Gothorita	Human-Like	N/A	Frisk	Competitive	Shadow Tag	24.9	75.1
+Gothitelle	Human-Like	N/A	Frisk	Competitive	Shadow Tag	24.9	75.1
+Solosis	Amorphous	N/A	Overcoat	Magic Guard	Regenerator	50.2	49.8
+Duosion	Amorphous	N/A	Overcoat	Magic Guard	Regenerator	50.2	49.8
+Reuniclus	Amorphous	N/A	Overcoat	Magic Guard	Regenerator	50.2	49.8
+Ducklett	Water 1	Flying	Keen Eye	Big Pecks	Hydration	50.2	49.8
+Swanna	Water 1	Flying	Keen Eye	Big Pecks	Hydration	50.2	49.8
+Vanillite	Mineral	N/A	Ice Body	Snow Cloak	Weak Armor	50.2	49.8
+Vanillish	Mineral	N/A	Ice Body	Snow Cloak	Weak Armor	50.2	49.8
+Vanilluxe	Mineral	N/A	Ice Body	Snow Warning	Weak Armor	50.2	49.8
+Deerling	Field	N/A	Chlorophyll	Sap Sipper	Serene Grace	50.2	49.8
+Sawsbuck	Field	N/A	Chlorophyll	Sap Sipper	Serene Grace	50.2	49.8
+Emolga	Field	N/A	Static	Motor Drive	N/A	50.2	49.8
+Karrablast	Bug	N/A	Swarm	Shed Skin	No Guard	50.2	49.8
+Escavalier	Bug	N/A	Swarm	Shell Armor	Overcoat	50.2	49.8
+Foongus	Grass	N/A	Effect Spore	Regenerator	N/A	50.2	49.8
+Amoonguss	Grass	N/A	Effect Spore	Regenerator	N/A	50.2	49.8
+Frillish	Amorphous	N/A	Water Absorb	Cursed Body	Damp	50.2	49.8
+Jellicent	Amorphous	N/A	Water Absorb	Cursed Body	Damp	50.2	49.8
+Alomomola	Water 1	Water 2	Healer	Hydration	Regenerator	50.2	49.8
+Joltik	Bug	N/A	Compoundeyes	Unnerve	Swarm	50.2	49.8
+Galvantula	Bug	N/A	Compoundeyes	Unnerve	Swarm	50.2	49.8
+Ferroseed	Grass	Mineral	Iron Barbs	N/A	N/A	50.2	49.8
+Ferrothorn	Grass	Mineral	Iron Barbs	Anticipation	N/A	50.2	49.8
+Klink	Mineral	N/A	Plus	Minus	Clear Body	0	0
+Klang	Mineral	N/A	Plus	Minus	Clear Body	0	0
+Klinklang	Mineral	N/A	Plus	Minus	Clear Body	0	0
+Tynamo	Amorphous	N/A	Levitate	N/A	N/A	50.2	49.8
+Eelektrik	Amorphous	N/A	Levitate	N/A	N/A	50.2	49.8
+Eelektross	Amorphous	N/A	Levitate	N/A	N/A	50.2	49.8
+Elgyem	Human-Like	N/A	Telepathy	Synchronize	Analytic	50.2	49.8
+Beheeyem	Human-Like	N/A	Telepathy	Synchronize	Analytic	50.2	49.8
+Litwick	Amorphous	N/A	Flash Fire	Flame Body	Infiltrator	50.2	49.8
+Lampent	Amorphous	N/A	Flash Fire	Flame Body	Infiltrator	50.2	49.8
+Chandelure	Amorphous	N/A	Flash Fire	Flame Body	Infiltrator	50.2	49.8
+Axew	Monster	Dragon	Rivalry	Mold Breaker	Unnerve	50.2	49.8
+Fraxure	Monster	Dragon	Rivalry	Mold Breaker	Unnerve	50.2	49.8
+Haxorus	Monster	Dragon	Rivalry	Mold Breaker	Unnerve	50.2	49.8
+Cubchoo	Field	N/A	Snow Cloak	Slush Rush	Rattled	50.2	49.8
+Beartic	Field	N/A	Snow Cloak	Slush Rush	Swift Swim	50.2	49.8
+Cryogonal	Mineral	N/A	Levitate	N/A	N/A	0	0
+Shelmet	Bug	N/A	Hydration	Shell Armor	Overcoat	50.2	49.8
+Accelgor	Bug	N/A	Hydration	Sticky Hold	Unburden	50.2	49.8
+Stunfisk	Water 1	Amorphous	Static	Limber	Sand Veil	50.2	49.8
+Mienfoo	Field	Human-Like	Inner Focus	Regenerator	Reckless	50.2	49.8
+Mienshao	Field	Human-Like	Inner Focus	Regenerator	Reckless	50.2	49.8
+Druddigon	Dragon	Monster	Rough Skin	Sheer Force	Mold Breaker	50.2	49.8
+Golett	Mineral	N/A	Iron Fist	Klutz	No Guard	0	0
+Golurk	Mineral	N/A	Iron Fist	Klutz	No Guard	0	0
+Pawniard	Human-Like	N/A	Defiant	Inner Focus	Pressure	50.2	49.8
+Bisharp	Human-Like	N/A	Defiant	Inner Focus	Pressure	50.2	49.8
+Bouffalant	Field	N/A	Reckless	Sap Sipper	Soundproof	50.2	49.8
+Rufflet	Flying	N/A	Keen Eye	Sheer Force	Hustle	100	0
+Braviary	Flying	N/A	Keen Eye	Sheer Force	Defiant	100	0
+Vullaby	Flying	N/A	Big Pecks	Overcoat	Weak Armor	0	100
+Mandibuzz	Flying	N/A	Big Pecks	Overcoat	Weak Armor	0	100
+Heatmor	Field	N/A	Gluttony	Flash Fire	White Smoke	50.2	49.8
+Durant	Bug	N/A	Swarm	Hustle	Truant	50.2	49.8
+Deino	Dragon	N/A	Hustle	N/A	N/A	50.2	49.8
+Zweilous	Dragon	N/A	Hustle	N/A	N/A	50.2	49.8
+Hydreigon	Dragon	N/A	Levitate	N/A	N/A	50.2	49.8
+Larvesta	Bug	N/A	Flame Body	Swarm	N/A	50.2	49.8
+Volcarona	Bug	N/A	Flame Body	Swarm	N/A	50.2	49.8
+Cobalion	Undiscovered	N/A	Justified	N/A	N/A	0	0
+Terrakion	Undiscovered	N/A	Justified	N/A	N/A	0	0
+Virizion	Undiscovered	N/A	Justified	N/A	N/A	0	0
+Tornadus	Undiscovered	N/A	Prankster	Defiant	N/A	100	0
+Thundurus	Undiscovered	N/A	Prankster	Defiant	N/A	100	0
+Reshiram	Undiscovered	N/A	Turboblaze	N/A	N/A	0	0
+Zekrom	Undiscovered	N/A	Teravolt	N/A	N/A	0	0
+Landorus	Undiscovered	N/A	Sand Force	Sheer Force	N/A	100	0
+Kyurem	Undiscovered	N/A	Pressure	N/A	N/A	0	0
+Keldeo	Undiscovered	N/A	Justified	N/A	N/A	0	0
+Meloetta	Undiscovered	N/A	Serene Grace	N/A	N/A	0	0
+Genesect	Undiscovered	N/A	Download	N/A	N/A	0	0
+Chespin	Field	N/A	Overgrow	Bulletproof	N/A	88.14	11.86
+Quilladin	Field	N/A	Overgrow	Bulletproof	N/A	88.14	11.86
+Chesnaught	Field	N/A	Overgrow	Bulletproof	N/A	88.14	11.86
+Fennekin	Field	N/A	Blaze	Magician	N/A	88.14	11.86
+Braixen	Field	N/A	Blaze	Magician	N/A	88.14	11.86
+Delphox	Field	N/A	Blaze	Magician	N/A	88.14	11.86
+Froakie	Water 1	N/A	Torrent	Protean	N/A	88.14	11.86
+Frogadier	Water 1	N/A	Torrent	Protean	N/A	88.14	11.86
+Greninja	Water 1	N/A	Torrent	Protean	N/A	88.14	11.86
+Bunnelby	Field	N/A	Pickup	Cheek Pouch	Huge Power	50.2	49.8
+Diggersby	Field	N/A	Pickup	Cheek Pouch	Huge Power	50.2	49.8
+Fletchling	Flying	N/A	Big Pecks	Gale Wings	N/A	50.2	49.8
+Fletchinder	Flying	N/A	Flame Body	Gale Wings	N/A	50.2	49.8
+Talonflame	Flying	N/A	Flame Body	Gale Wings	N/A	50.2	49.8
+Scatterbug	Bug	N/A	Shield Dust	Compoundeyes	Friend Guard	50.2	49.8
+Spewpa	Bug	N/A	Shed Skin	Friend Guard	N/A	50.2	49.8
+Vivillon	Bug	N/A	Shield Dust	Compoundeyes	Friend Guard	50.2	49.8
+Litleo	Field	N/A	Rivalry	Unnerve	Moxie	12.06	87.94
+Pyroar	Field	N/A	Rivalry	Unnerve	Moxie	12.06	87.94
+Flabébé	Fairy	N/A	Flower Veil	Symbiosis	N/A	0	100
+Floette	Fairy	N/A	Flower Veil	Symbiosis	N/A	0	100
+Florges	Fairy	N/A	Flower Veil	Symbiosis	N/A	0	100
+Skiddo	Field	N/A	Sap Sipper	Grass Pelt	N/A	50.2	49.8
+Gogoat	Field	N/A	Sap Sipper	Grass Pelt	N/A	50.2	49.8
+Pancham	Field	Human-Like	Iron Fist	Mold Breaker	Scrappy	50.2	49.8
+Pangoro	Field	Human-Like	Iron Fist	Mold Breaker	Scrappy	50.2	49.8
+Furfrou	Field	N/A	Fur Coat	N/A	N/A	50.2	49.8
+Espurr	Field	N/A	Keen Eye	Infiltrator	Own Tempo	50.2	49.8
+Meowstic	Field	N/A	Keen Eye	Infiltrator	Prankster	50.2	49.8
+Honedge	Mineral	N/A	No Guard	N/A	N/A	50.2	49.8
+Doublade	Mineral	N/A	No Guard	N/A	N/A	50.2	49.8
+Aegislash	Mineral	N/A	Stance Change	N/A	N/A	50.2	49.8
+Spritzee	Fairy	N/A	Healer	Aroma Veil	N/A	50.2	49.8
+Aromatisse	Fairy	N/A	Healer	Aroma Veil	N/A	50.2	49.8
+Swirlix	Fairy	N/A	Sweet Veil	Unburden	N/A	50.2	49.8
+Slurpuff	Fairy	N/A	Sweet Veil	Unburden	N/A	50.2	49.8
+Inkay	Water 1	Water 2	Contrary	Suction Cups	Infiltrator	50.2	49.8
+Malamar	Water 1	Water 2	Contrary	Suction Cups	Infiltrator	50.2	49.8
+Binacle	Water 3	N/A	Tough Claws	Sniper	Pickpocket	50.2	49.8
+Barbaracle	Water 3	N/A	Tough Claws	Sniper	Pickpocket	50.2	49.8
+Skrelp	Water 1	Dragon	Poison Point	Poison Touch	Adaptability	50.2	49.8
+Dragalge	Water 1	Dragon	Poison Point	Poison Touch	Adaptability	50.2	49.8
+Clauncher	Water 1	Water 3	Mega Launcher	N/A	N/A	50.2	49.8
+Clawitzer	Water 1	Water 3	Mega Launcher	N/A	N/A	50.2	49.8
+Helioptile	Monster	Dragon	Dry Skin	Sand Veil	Solar Power	50.2	49.8
+Heliolisk	Monster	Dragon	Dry Skin	Sand Veil	Solar Power	50.2	49.8
+Tyrunt	Monster	Dragon	Strong Jaw	Sturdy	N/A	88.14	11.86
+Tyrantrum	Monster	Dragon	Strong Jaw	Rock Head	N/A	88.14	11.86
+Amaura	Monster	N/A	Refrigerate	Snow Warning	N/A	88.14	11.86
+Aurorus	Monster	N/A	Refrigerate	Snow Warning	N/A	88.14	11.86
+Sylveon	Field	N/A	Cute Charm	Pixilate	N/A	88.14	11.86
+Hawlucha	Flying*	Human-Like	Limber	Unburden	Mold Breaker	50.2	49.8
+Dedenne	Field	Fairy	Cheek Pouch	Pickup	Plus	50.2	49.8
+Carbink	Fairy	Mineral	Clear Body	Sturdy	N/A	0	0
+Goomy	Dragon	N/A	Sap Sipper	Hydration	Gooey	50.2	49.8
+Sliggoo	Dragon	N/A	Sap Sipper	Hydration	Gooey	50.2	49.8
+Goodra	Dragon	N/A	Sap Sipper	Hydration	Gooey	50.2	49.8
+Klefki	Mineral	N/A	Prankster	Magician	N/A	50.2	49.8
+Phantump	Grass	Amorphous	Natural Cure	Frisk	Harvest	50.2	49.8
+Trevenant	Grass	Amorphous	Natural Cure	Frisk	Harvest	50.2	49.8
+Pumpkaboo	Amorphous	N/A	Pickup	Frisk	Insomnia	50.2	49.8
+Gourgeist	Amorphous	N/A	Pickup	Frisk	Insomnia	50.2	49.8
+Bergmite	Monster	Mineral*	Own Tempo	Ice Body	Sturdy	50.2	49.8
+Avalugg	Monster	Mineral*	Own Tempo	Ice Body	Sturdy	50.2	49.8
+Noibat	Flying	Dragon*	Frisk	Infiltrator	Telepathy	50.2	49.8
+Noivern	Flying	Dragon*	Frisk	Infiltrator	Telepathy	50.2	49.8
+Xerneas	Undiscovered	N/A	Fairy Aura	N/A	N/A	0	0
+Yveltal	Undiscovered	N/A	Dark Aura	N/A	N/A	0	0
+Zygarde	Undiscovered	N/A	Aura Break	N/A	N/A	0	0
+Diancie	Undiscovered	N/A	Clear Body	N/A	N/A	0	0
+Hoopa	Undiscovered	N/A	Magician	N/A	N/A	0	0
+Volcanion	Undiscovered	N/A	Water Absorb	N/A	N/A	0	0
+Rowlet	Flying	N/A	Overgrow	Long Reach	N/A	88.14	11.86
+Dartrix	Flying	N/A	Overgrow	Long Reach	N/A	88.14	11.86
+Decidueye	Flying	N/A	Overgrow	Long Reach	N/A	88.14	11.86
+Litten	Field	N/A	Blaze	Intimidate	N/A	88.14	11.86
+Torracat	Field	N/A	Blaze	Intimidate	N/A	88.14	11.86
+Incineroar	Field	N/A	Blaze	Intimidate	N/A	88.14	11.86
+Popplio	Water 1	Field	Torrent	Liquid Voice	N/A	88.14	11.86
+Brionne	Water 1	Field	Torrent	Liquid Voice	N/A	88.14	11.86
+Primarina	Water 1	Field	Torrent	Liquid Voice	N/A	88.14	11.86
+Pikipek	Flying	N/A	Keen Eye	Skill Link	Pickup	50.2	49.8
+Trumbeak	Flying	N/A	Keen Eye	Skill Link	Pickup	50.2	49.8
+Toucannon	Flying	N/A	Keen Eye	Skill Link	Sheer Force	50.2	49.8
+Yungoos	Field	N/A	Stakeout	Strong Jaw	Adaptability	50.2	49.8
+Gumshoos	Field	N/A	Stakeout	Strong Jaw	Adaptability	50.2	49.8
+Grubbin	Bug	N/A	Swarm	N/A	N/A	50.2	49.8
+Charjabug	Bug	N/A	Battery	N/A	N/A	50.2	49.8
+Vikavolt	Bug	N/A	Levitate	N/A	N/A	50.2	49.8
+Crabrawler	Water 3	N/A	Hyper Cutter	Iron Fist	Anger Point	50.2	49.8
+Crabominable	Water 3	N/A	Hyper Cutter	Iron Fist	Anger Point	50.2	49.8
+Oricorio	Flying	N/A	Dancer	N/A	N/A	24.9	75.1
+Cutiefly	Bug	Fairy	Honey Gather	Shield Dust	Sweet Veil	50.2	49.8
+Ribombee	Bug	Fairy	Honey Gather	Shield Dust	Sweet Veil	50.2	49.8
+Rockruff	Field	N/A	Keen Eye	Vital Spirit	Steadfast	50.2	49.8
+Lycanroc	Field	N/A	Keen Eye	Sand Rush	Steadfast	50.2	49.8
+Wishiwashi	Water 2	N/A	Schooling	N/A	N/A	50.2	49.8
+Mareanie	Water 1	N/A	Merciless	Limber	Regenerator	50.2	49.8
+Toxapex	Water 1	N/A	Merciless	Limber	Regenerator	50.2	49.8
+Mudbray	Field	N/A	Own Tempo	Stamina	Inner Focus	50.2	49.8
+Mudsdale	Field	N/A	Own Tempo	Stamina	Inner Focus	50.2	49.8
+Dewpider	Water 1	Bug	Water Bubble	Water Absorb	N/A	50.2	49.8
+Araquanid	Water 1	Bug	Water Bubble	Water Absorb	N/A	50.2	49.8
+Fomantis	Grass	N/A	Leaf Guard	Contrary	N/A	50.2	49.8
+Lurantis	Grass	N/A	Leaf Guard	Contrary	N/A	50.2	49.8
+Morelull	Grass	N/A	Illuminate	Effect Spore	Rain Dish	50.2	49.8
+Shiinotic	Grass	N/A	Illuminate	Effect Spore	Rain Dish	50.2	49.8
+Salandit	Monster	Dragon	Corrosion	Oblivious	N/A	88.14	11.86
+Salazzle	Monster	Dragon	Corrosion	Oblivious	N/A	0	100
+Stufful	Field	N/A	Fluffy	Klutz	Cute Charm	50.2	49.8
+Bewear	Field	N/A	Fluffy	Klutz	Unnerve	50.2	49.8
+Bounsweet	Grass	N/A	Leaf Guard	Oblivious	Sweet Veil	0	100
+Steenee	Grass	N/A	Leaf Guard	Oblivious	Sweet Veil	0	100
+Tsareena	Grass	N/A	Leaf Guard	Queenly Majesty	Sweet Veil	0	100
+Comfey	Grass	N/A	Flower Veil	Triage	Natural Cure	24.9	75.1
+Oranguru	Field	N/A	Inner Focus	Telepathy	Symbiosis	50.2	49.8
+Passimian	Field	N/A	Receiver	Defiant	N/A	50.2	49.8
+Wimpod	Bug	Water 3	Wimp Out	N/A	N/A	50.2	49.8
+Golisopod	Bug	Water 3	Emergency Exit	N/A	N/A	50.2	49.8
+Sandygast	Amorphous	N/A	Water Compaction	Sand Veil	N/A	50.2	49.8
+Palossand	Amorphous	N/A	Water Compaction	Sand Veil	N/A	50.2	49.8
+Pyukumuku	Water 1	N/A	Innards Out	Unaware	N/A	50.2	49.8
+Type: Null	Undiscovered	N/A	Battle Armor	N/A	N/A	0	0
+Silvally	Undiscovered	N/A	RKS System	N/A	N/A	0	0
+Minior	Mineral	N/A	Shields Down	N/A	N/A	0	0
+Komala	Field	N/A	Comatose	N/A	N/A	50.2	49.8
+Turtonator	Monster	Dragon	Shell Armor	N/A	N/A	50.2	49.8
+Togedemaru	Field	Fairy	Iron Barbs	Lightning Rod	Sturdy	50.2	49.8
+Mimikyu	Amorphous	N/A	Disguise	N/A	N/A	50.2	49.8
+Bruxish	Water 2	N/A	Dazzling	Strong Jaw	Wonder Skin	50.2	49.8
+Drampa	Monster	Dragon	Berserk	Sap Sipper	Cloud Nine	50.2	49.8
+Dhelmise	Mineral	N/A	Steelworker	N/A	N/A	0	0
+Jangmo-o	Dragon	N/A	Bulletproof	Soundproof	Overcoat	50.2	49.8
+Hakamo-o	Dragon	N/A	Bulletproof	Soundproof	Overcoat	50.2	49.8
+Kommo-o	Dragon	N/A	Bulletproof	Soundproof	Overcoat	50.2	49.8
+Tapu Koko	Undiscovered	N/A	Electric Surge	Telepathy	N/A	0	0
+Tapu Lele	Undiscovered	N/A	Psychic Surge	Telepathy	N/A	0	0
+Tapu Bulu	Undiscovered	N/A	Grassy Surge	Telepathy	N/A	0	0
+Tapu Fini	Undiscovered	N/A	Misty Surge	Telepathy	N/A	0	0
+Cosmog	Undiscovered	N/A	Unaware	N/A	N/A	0	0
+Cosmoem	Undiscovered	N/A	Sturdy	N/A	N/A	0	0
+Solgaleo	Undiscovered	N/A	Full Metal Body	N/A	N/A	0	0
+Lunala	Undiscovered	N/A	Shadow Shield	N/A	N/A	0	0
+Nihilego	Undiscovered	N/A	Beast Boost	N/A	N/A	0	0
+Buzzwole	Undiscovered	N/A	Beast Boost	N/A	N/A	0	0
+Pheromosa	Undiscovered	N/A	Beast Boost	N/A	N/A	0	0
+Xurkitree	Undiscovered	N/A	Beast Boost	N/A	N/A	0	0
+Celesteela	Undiscovered	N/A	Beast Boost	N/A	N/A	0	0
+Kartana	Undiscovered	N/A	Beast Boost	N/A	N/A	0	0
+Guzzlord	Undiscovered	N/A	Beast Boost	N/A	N/A	0	0
+Necrozma	Undiscovered	N/A	Prism Armor	N/A	N/A	0	0
+Magearna	Undiscovered	N/A	Soul-Heart	N/A	N/A	0	0
+Marshadow	Undiscovered	N/A	Technician	N/A	N/A	0	0
+Poipole	Undiscovered	N/A	Beast Boost	N/A	N/A	0	0
+Naganadel	Undiscovered	N/A	Beast Boost	N/A	N/A	0	0
+Stakataka	Undiscovered	N/A	Beast Boost	N/A	N/A	0	0
+Blacephalon	Undiscovered	N/A	Beast Boost	N/A	N/A	0	0
+Zeraora	Undiscovered	N/A	Volt Absorb	N/A	N/A	0	0
+Meltan	Undiscovered	N/A	Magnet Pull	N/A	N/A	0	0
+Melmetal	Undiscovered	N/A	Iron Fist	N/A	N/A	0	0
+Grookey	Field	Grass	Overgrow	Grassy Surge	N/A	88.14	11.86
+Thwackey	Field	Grass	Overgrow	Grassy Surge	N/A	88.14	11.86
+Rillaboom	Field	Grass	Overgrow	Grassy Surge	N/A	88.14	11.86
+Scorbunny	Field	Human-Like	Blaze	Libero	N/A	88.14	11.86
+Raboot	Field	Human-Like	Blaze	Libero	N/A	88.14	11.86
+Cinderace	Field	Human-Like	Blaze	Libero	N/A	88.14	11.86
+Sobble	Water 1	Field	Torrent	Sniper	N/A	88.14	11.86
+Drizzile	Water 1	Field	Torrent	Sniper	N/A	88.14	11.86
+Inteleon	Water 1	Field	Torrent	Sniper	N/A	88.14	11.86
+Skwovet	Field	N/A	Cheek Pouch	Gluttony	N/A	50.2	49.8
+Greedent	Field	N/A	Cheek Pouch	Gluttony	N/A	50.2	49.8
+Rookidee	Flying	N/A	Keen Eye	Unnerve	Big Pecks	50.2	49.8
+Corvisquire	Flying	N/A	Keen Eye	Unnerve	Big Pecks	50.2	49.8
+Corviknight	Flying	N/A	Pressure	Unnerve	Mirror Armor	50.2	49.8
+Blipbug	Bug	N/A	Swarm	Compoundeyes	Telepathy	50.2	49.8
+Dottler	Bug	N/A	Swarm	Compoundeyes	Telepathy	50.2	49.8
+Orbeetle	Bug	N/A	Swarm	Frisk	Telepathy	50.2	49.8
+Nickit	Field	N/A	Run Away	Unburden	Stakeout	50.2	49.8
+Thievul	Field	N/A	Run Away	Unburden	Stakeout	50.2	49.8
+Gossifleur	Grass	N/A	Cotton Down	Regenerator	Effect Spore	50.2	49.8
+Eldegoss	Grass	N/A	Cotton Down	Regenerator	Effect Spore	50.2	49.8
+Wooloo	Field	N/A	Fluffy	Run Away	Bulletproof	50.2	49.8
+Dubwool	Field	N/A	Fluffy	Steadfast	Bulletproof	50.2	49.8
+Chewtle	Monster	Water 1	Strong Jaw	Shell Armor	Swift Swim	50.2	49.8
+Drednaw	Monster	Water 1	Strong Jaw	Shell Armor	Swift Swim	50.2	49.8
+Yamper	Field	N/A	Ball Fetch	Rattled	N/A	50.2	49.8
+Boltund	Field	N/A	Strong Jaw	Competitive	N/A	50.2	49.8
+Rolycoly	Mineral	N/A	Steam Engine	Heatproof	Flash Fire	50.2	49.8
+Carkol	Mineral	N/A	Steam Engine	Flame Body	Flash Fire	50.2	49.8
+Coalossal	Mineral	N/A	Steam Engine	Flame Body	Flash Fire	50.2	49.8
+Applin	Grass	Dragon	Ripen	Gluttony	Bulletproof	50.2	49.8
+Flapple	Grass	Dragon	Ripen	Gluttony	Hustle	50.2	49.8
+Appletun	Grass	Dragon	Ripen	Gluttony	Thick Fat	50.2	49.8
+Silicobra	Field	Dragon	Sand Spit	Shed Skin	Sand Veil	50.2	49.8
+Sandaconda	Field	Dragon	Sand Spit	Shed Skin	Sand Veil	50.2	49.8
+Cramorant	Water 1	Flying	Gulp Missile	N/A	N/A	50.2	49.8
+Arrokuda	Water 2	N/A	Swift Swim	Propeller Tail	N/A	50.2	49.8
+Barraskewda	Water 2	N/A	Swift Swim	Propeller Tail	N/A	50.2	49.8
+Toxel	Undiscovered	N/A	Rattled	Static	Klutz	50.2	49.8
+Toxtricity	Human-Like	N/A	Punk Rock	Plus	Technician	50.2	49.8
+Sizzlipede	Bug	N/A	Flash Fire	White Smoke	Flame Body	50.2	49.8
+Centiskorch	Bug	N/A	Flash Fire	White Smoke	Flame Body	50.2	49.8
+Clobbopus	Water 1	Human-Like	Limber	Technician	N/A	50.2	49.8
+Grapploct	Water 1	Human-Like	Limber	Technician	N/A	50.2	49.8
+Sinistea	Mineral	Amorphous	Weak Armor	Cursed Body	N/A	0	0
+Polteageist	Mineral	Amorphous	Weak Armor	Cursed Body	N/A	0	0
+Hatenna	Fairy	N/A	Healer	Anticipation	Magic Bounce	0	100
+Hattrem	Fairy	N/A	Healer	Anticipation	Magic Bounce	0	100
+Hatterene	Fairy	N/A	Healer	Anticipation	Magic Bounce	0	100
+Impidimp	Fairy	Human-Like	Prankster	Frisk	Pickpocket	100	0
+Morgrem	Fairy	Human-Like	Prankster	Frisk	Pickpocket	100	0
+Grimmsnarl	Fairy	Human-Like	Prankster	Frisk	Pickpocket	100	0
+Obstagoon	Field	N/A	Reckless	Guts	Defiant	50.2	49.8
+Perrserker	Field	N/A	Battle Armor	Tough Claws	Steely Spirit	50.2	49.8
+Cursola	Water 1	Water 3	Weak Armor	Perish Body	N/A	24.9	75.1
+Sirfetch'd	Flying	Field	Steadfast	Scrappy	N/A	50.2	49.8
+Mr. Rime	Human-Like	N/A	Tangled Feet	Screen Cleaner	Ice Body	50.2	49.8
+Runerigus	Mineral	Amorphous	Wandering Spirit	N/A	N/A	50.2	49.8
+Milcery	Fairy	Amorphous	Sweet Veil	Aroma Veil	N/A	0	100
+Alcremie	Fairy	Amorphous	Sweet Veil	Aroma Veil	N/A	0	100
+Falinks	Fairy	Mineral	Battle Armor	Defiant	N/A	0	0
+Pincurchin	Water 1	Amorphous	Lightning Rod	Electric Surge	N/A	50.2	49.8
+Snom	Bug	N/A	Shield Dust	Ice Scales	N/A	50.2	49.8
+Frosmoth	Bug	N/A	Shield Dust	Ice Scales	N/A	50.2	49.8
+Stonjourner	Mineral	N/A	Power Spot	N/A	N/A	50.2	49.8
+Eiscue	Water 1	Field	Ice Face	N/A	N/A	50.2	49.8
+Indeedee	Fairy	N/A	Inner Focus	Synchronize	Psychic Surge	50.2	49.8
+Morpeko	Field	Fairy	Hunger Switch	N/A	N/A	50.2	49.8
+Cufant	Field	Mineral	Sheer Force	Heavy Metal	N/A	50.2	49.8
+Copperajah	Field	Mineral	Sheer Force	Heavy Metal	N/A	50.2	49.8
+Dracozolt	Undiscovered	N/A	Volt Absorb	Hustle	Sand Rush	0	0
+Arctozolt	Undiscovered	N/A	Volt Absorb	Static	Slush Rush	0	0
+Dracovish	Undiscovered	N/A	Water Absorb	Strong Jaw	Sand Rush	0	0
+Arctovish	Undiscovered	N/A	Water Absorb	Ice Body	Slush Rush	0	0
+Duraludon	Mineral	Dragon	Light Metal	Heavy Metal	Stalwart	50.2	49.8
+Dreepy	Amorphous	Dragon	Clear Body	Infiltrator	Cursed Body	50.2	49.8
+Drakloak	Amorphous	Dragon	Clear Body	Infiltrator	Cursed Body	50.2	49.8
+Dragapult	Amorphous	Dragon	Clear Body	Infiltrator	Cursed Body	50.2	49.8
+Zacian	Undiscovered	N/A	Intrepid Sword	N/A	N/A	0	0
+Zamazenta	Undiscovered	N/A	Dauntless Shield	N/A	N/A	0	0
+Eternatus	Undiscovered	N/A	Pressure	N/A	N/A	0	0
