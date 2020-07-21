@@ -889,3 +889,6 @@ Dragapult	Amorphous	Dragon	Clear Body	Infiltrator	Cursed Body	50.2	49.8	Dreepy
 Zacian	Undiscovered	N/A	Intrepid Sword	N/A	N/A	0	0	N/A
 Zamazenta	Undiscovered	N/A	Dauntless Shield	N/A	N/A	0	0	N/A
 Eternatus	Undiscovered	N/A	Pressure	N/A	N/A	0	0	N/A
+Kubfu	Undiscovered	N/A	Inner Focus	N/A	N/A	88.14	11.86	N/A
+Urshifu	Undiscovered	N/A	Unseen Fist	N/A	N/A	88.14	11.86	N/A
+Zarude	Undiscovered	N/A	Leaf Guard	N/A	N/A	0	0	N/A
